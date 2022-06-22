@@ -1,0 +1,3462 @@
+TITLE:
+   Chief Complaint: C. difficile colitis and shock
+   24 Hour Events:
+   - Increased standing and sliding scale insulin for improved control
+   - U/S at bedside of right chest found fluid, consider thoracentesis if
+   would improve chance of extubation
+   - Son, [**Name (NI) **] [**Name (NI) 2812**], [**Name (NI) 161**] re: tracheostomy. Son to visit [**2129-12-28**] noon
+   for discussion, then will speak with her other brother in CA and tell
+   team a decision in next 1-2 days
+   - Diuresed -1L
+   - Attempted to place NG x 2 -> both were in lung and removed
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin - [**2129-12-25**] 06:05 PM
+   Metronidazole - [**2129-12-28**] 03:55 AM
+   Vancomycin - [**2129-12-28**] 06:00 AM
+   Infusions:
+   Furosemide (Lasix) - 3 mg/hour
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2129-12-27**] 08:00 PM
+   Heparin Sodium (Prophylaxis) - [**2129-12-27**] 09:59 PM
+   Other medications:
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2129-12-28**] 07:31 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.7
+C (99.8
+   Tcurrent: 36.7
+C (98.1
+   HR: 92 (66 - 94) bpm
+   BP: 115/50(66) {114/38(58) - 134/60(77)} mmHg
+   RR: 18 (11 - 40) insp/min
+   SpO2: 95%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 75 kg (admission): 60 kg
+    CVP: 0 (0 - 10)mmHg
+   Total In:
+                                                                  1,696 mL
+                                                                    517 mL
+   PO:
+   TF:
+                                                                    722 mL
+                                                                    193 mL
+   IVF:
+                                                                    724 mL
+                                                                    204 mL
+   Blood products:
+   Total out:
+                                                                  2,555 mL
+                                                                  1,145 mL
+   Urine:
+                                                                  2,555 mL
+                                                                    645 mL
+   NG:
+   Stool:
+
+
+Probable sinus tachycardia
+Left axis deviation
+Left bundle branch block
+Since previous tracing, no significant change except for increased heart rate
+
+
+CCU Nursing Progress Note 7p-7a
+(Continued)
+w. BS nml at present cont to follow w/ start of TF and cont Prednisone dosing. TLC removed early this am. ? Need for replacement. Cont to support pt and family as indicated.
+
+
+pmicu npn 7p-7a
+
+
+   the pt had an uneventful [** **]. he has been npo since mn in anticipation of a trach and peg.
+
+review of systems
+
+respiratory-> pt remains intubated and vented on psv8/peep5 and o2 35%. srr 20's w/tv ~700-800cc. most current abg on above settings: 7.41/35/121/23/-1. pt continues to require frequent suctioning for thick, white secretions. plan for trach in the or sometime later today.
+
+cardiac-> pt is hemodynamically stable. he did receive a single dose of iv hydralazine for a sbp >160 earlier in the shift w/good results. sbp ranging 150-160's, but he was bolused several times for sbp >180 during his am bath as well. hr 90-100's, sr/st with no noted ectopy.
+
+neuro-> pt is occationally opening his eyes when his name is called or when he is stimulated with suctioning/turning. he is not tracking. he is moving his arms laterally on the bed r>l. no change made to propofol qtt rate/all sedation off x48hrs.
+
+gi-> abd is soft, distended w/+bs. he continues to pass liquid, brown, ob neg stool via the fib. tube feedings have been off since mn but residuals prior to mn were minimal.
+
+gu-> uop ~10cc/hr. urine is now clear and yellow. anticipate dialysis later today. of note, pt to start on epogen during dialysis treatments today (hct has fallen to 24.7 today). +3 peripheral edema appears to have improved s/p ultafiltration yesterday.
+
+id-> tmax 100.1 orally. wbc continues to trend downward to 11.9 this morning.
+
+social-> no contact w/family [** 87**].
+
+
+[**2140-7-9**] 12:35 PM
+ CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 86431**]
+ CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+ Reason: fluid collection?, ascites?
+ Admitting Diagnosis: FEVER
+ Field of view: 36 Contrast: OPTIRAY Amt: 150
+ ______________________________________________________________________________
+ [**Hospital 4**]
+
+
+MEDICAL CONDITION:
+
+
+57F s/p donor R hepatic lobectomy, with known bile leak & now w fevers, s/p
+  PTC
+
+
+REASON FOR THIS EXAMINATION:
+
+
+fluid collection?, ascites?
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+PROCEDURE:
+
+
+CT of the abdomen and pelvis with contrast.
+
+
+INDICATION:
+
+
+Fevers.  Status post right hepatic lobectomy and percutaneous
+ transhepatic catheter placement.
+
+
+TECHNIQUE:
+
+
+Multidetector, contrast-enhanced images of the abdomen and pelvis
+ following the administration of 150 cc of IV Optiray were performed.  Images
+ reformatted in the sagittal and coronal planes.
+
+ IV CONTRAST:  Nonionic IV Optiray contrast was used as per protocol.
+
+ CT OF THE ABDOMEN WITH CONTRAST:  There are new small, bilateral pleural
+ effusions, right greater than left.  The patient is status post right lobe
+ hepatectomy and embolization with coils of previous right transhepatic biliary
+ catheter tract.
+
+ Comparison is made to the CT study of [**2140-6-30**].  There has been interval
+ placement 1 day earlier of a new, percutaneously placed, transhepatic biliary
+ catheter through the segment II biliary ducts from midline approach. The tip
+ ends in the right paracolic gutter adjacent to the right abdominal drain. Note
+ is again made of the percutaneous biliary drainage catheter through the
+ segment [**Date Range 67287**] biliary ducts with pigtail seen in the Roux loop.
+
+ New on the current exam is a large, retrohepatic,  mixed high-density,
+ expansile collection measuring 9.6 x 5.7 cm.  It demonstrates mass effect on
+ the adjacent inferior vena cava and liver.  There is nonenhancing irregularity
+ of the liver parenchyma anterior to this collection. There is new attenuation
+ of the proximal, intrahepatic main left portal vein branch, which is
+ surrounded by periportal fluid.  The newly inserted biliary drain through the
+ segment II ducts is noted to traverse branches of the intrahepatic arteries.
+
+ There is a small amount of diffuse free fluid throughout the abdomen. Focal
+ high density seen within the fluid in the left paracolic gutter suggests the
+ the etiology to be hemorrhage.  The spleen is markedly enlarged. Kidneys,
+ adrenal glands, pancreas, stomach, and bowel loops are unremarkable in
+ appearance.  The aorta is normal in caliber, without evidence of dissection.
+ The main visceral arterial branches are patent.
+
+                                                             (Over)
+
+ [**2140-7-9**] 12:35 PM
+ CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 86431**]
+ CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+ Reason: fluid collection?, ascites?
+ Admitting Diagnosis: FEVER
+ Field of view: 36 Contrast: OPTIRAY Amt: 150
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+(Cont)
+ CT OF THE PELVIS WITH CONTRAST:  The bladder and distal ureters are normal.
+ There is a small to moderate amount of free fluid in the pelvis.  Pelvic bowel
+ loops are normal.  Foley catheter is seen within the bladder.
+
+ Bone windows show no suspicious lesions.
+
+ MULTIPLANAR REFORMATTED IMAGES:  Images reformatted in the sagittal and
+ coronal planes demonstrate percutaneous transhepatic biliary drainage
+ catheters and large retrohepatic mixed and high attenuation, expansile
+ collection consistent with acute hematoma.
+
+
+IMPRESSION:
+
+
+1.  New expansile, retrohepatic, mixed high-attenuation collection with mass
+ effect on the IVC and adjacent liver, consistent with a hematoma. Small to
+ moderate serosanguinous fluid is seen throughout the abdomen and pelvis.
+ 2.  Nonenhancing hypodense irregularity of the liver margin anterior to the
+ aforementioned collection, the appearance for which tear/laceration of the
+ liver capsule and/or parenchymal liver injury is possible.
+ 3.  Irregularity and attenuation of the proximal intrahepatic left main portal
+ vein.
+
+ A small focus of high attenuation seen on series 2, image 18 at the periphery
+ of the retrohepatic collection could indicate an element of active
+ extravasation from arterial injury.  The above findings were called
+ immediately to Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 28801**] of the surgical team caring for the patient.
+
+
+Nusing Progress Note
+I have examined this infant.  I agree with PCA [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 968**]' note and assessment.
+
+
+[**2150-3-22**] 8:26 PM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4469**]
+ Reason: please evaluate for ett placement
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+66 year old woman with SAH
+
+
+REASON FOR THIS EXAMINATION:
+
+
+please evaluate for ett placement
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+66-year-old woman with subarachnoid hemorrhage.  Please evaluate
+ for ET placement.
+
+
+COMPARISON:
+
+
+None available.
+
+ ONE VIEW OF THE CHEST:
+
+ The lungs are low in volume and show a right lower lobe opacity. An ET tube
+ terminates 1 cm above the carina.  Distal aspect of a nasogastric tube
+ terminates overlying the lower left hemithorax.  While it does not appear to
+ course in the path of the left mainstem bronchus, the nasogastric tube may be
+ in a hiatal hernia, although pulmonary involvement can not be excluded.
+ Another tube overlies the neck and is likely external. An EJ catheter is noted
+ in the right neck. No effusions are noted. Prominence of the mediastinum may
+ be secondary to patient position and AP technique.  A rib deformity in the
+ right lower lobe likely represents an old fracture.
+
+
+IMPRESSION:
+
+
+Mild right lower lobe opacity likely represents atelectasis. While it does not
+ appear to course in the path of the left mainstem bronchus, the nasogastric
+ tube may be in a hiatal hernia, although pulmonary involvement can not be
+ excluded  Nasogastric tube was removed [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3057**], the ED resident,
+ when this finding was communicated.
+
+ Endotracheal tube slightly low lying, terminating ~ 1 cm above the carina and
+ should be withdrawn approximately 2 cm.
+
+ Prominence of the mediastinum may be due to patient position and AP technique.
+ If clinical concern for acute aortic syndrome suggest PA and lateral views, or
+ if patient not able consider chest CTA.
+
+
+[**2101-5-13**] 3:42 PM
+ CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 25384**]
+ Reason: ASSESS EFFUSIONS/INFILTRATES
+ ______________________________________________________________________________
+ [**Hospital 3**]
+
+
+MEDICAL CONDITION:
+
+
+74 YO WOMAN S/P CABG AND CT REMOVAL
+
+
+REASON FOR THIS EXAMINATION:
+
+
+ASSESS EFFUSIONS/INFILTRATES
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+HISTORY:
+
+
+74-year-old S/P CABG and chest tube removal assess
+ effusion/infiltrates.
+
+
+COMPARISON:
+
+
+[**2101-5-10**]
+
+ PORTABLE CHEST:  Sternotomy wires and surgical clips are present consistent
+ with prior CABG.  There are mid-line skin staples seen.  The cardiac
+ silhouette is enlarged and there is bilateral pleural effusions with bilateral
+ interstitial edema which have worsened compared to the prior study.  The
+ visualized bones are unremarkable.
+
+
+IMPRESSION:
+
+
+Cardiomegaly with bilateral interstitial edema and effusions
+ consistent with failure.
+
+
+NPN 0700-[**2086**]
+
+
+1.  On 120/k/d min. of BM20/E20.  Infant taking 50-90cc
+Q3-4hr very well.  Voiding and stooling.  Abd benign.
+Tolerating all PO feeds well.
+
+2.  Temp stable swaddled in OC.  Infant waking for feeds
+Q3-4hr and resting well inbetween.  MAE, brings hands to
+face.  AGA.  Newborn screen sent.
+
+5.  No A&B's.  Lungs clear, RR 30-50's with sats 98-100%.
+Stable resp status.  Day [**5-21**] brady countdown.
+
+3.  Parents in to visit.  All d/c teaching reviewed as noted
+on NICU D/C instruction sheet.  Reviewed administation of FE
+and polyvisol.  Parents placed infant in carseat.  Baby d/c
+home with belongings and parents.
+
+
+51 y/o man w/ PMH of C3-C5 spinal cord contusion, L femur fracture, rib
+   fx
+s, and liver laceration for car accident. Was in T/SICU from [**11-3**] to
+   [**11-17**]. Pt was not a surgical candidate for spinal repair, surgical
+   repair performed on L femur.  IVC filter was placed r/t possible PE and
+   pt received trach/PEG. Discarged to [**Hospital3 1536**] but was re-admitted
+   to [**Hospital1 5**] r/t increased oxygen requirement and fevers up to 104 degrees.
+   Admitted to M/SICU for further mgt.  Pt is Full [**Name (NI) 156**]..
+   Respiratory failure, acute (not ARDS/[**Doctor Last Name 76**])
+   Assessment:
+   Remains intubated.
+   Received pt on PSV 18/5, FIO2 40%.
+   02 sats 98-100%
+   Sm/moderate amt white thick secretions via ETT.
+   LS rhonchi bilaterally.
+   HR/BP stable, urine output adequate, tolerating TF
+s at goal rate.
+   Pt sleeping soundly throuhout night, easily arousable.
+   Action:
+   PSV reduced from 18 -> 16.
+   Changed to MMV r/t low RR and MV when pt sleeping.
+   Response:
+   Pts resp status stable on PSV/MMV settings. (see flowsheet).
+   Plan:
+   Cont to monitor pts resp status.
+   Wean vent support as tolerated.
+   Fever, unknown origin (FUO, Hyperthermia, Pyrexia)
+   Assessment:
+   Pt febrile to 101-102 at start of shift, on cooling blanket.
+   Action:
+   Received 800mg Motrin at start of shift for headache/fever.
+   Response:
+   Temp trending down overnight 101.1 -> 99.9.
+   Cooling blanket D/C
+   Plan:
+   Cont to monitor pts temp.
+   Impaired Physical Mobility
+   Assessment:
+   Pt able to move toes on both feet slightly on command.
+   No movement in hands noted.
+   Pt remains in [**Location (un) 408**] J collar.
+   Action:
+   Collar care performed.
+   Pt turned side to side off back in bed.
+   Response:
+   Remains physically immobile.
+   Skin dry and intact, no breakdown noted.
+   Plan:
+   Cont to monitor pts physical mobility.
+   Cont to turn off back and provide collar care to prevent skin
+   breakdown.
+
+
+CCU ADMITTING NOTE
+58 YEAR OLD MALE ADMITTED TO CCU POST CATHETERIZATION & SHEATH PLACEMENT.
+
+ALLERGIES: NKDA
+
+PMH: Interior wall MI, CAD-(MULTIPLE SIBLINGS DIED OF PREMATURE CAD),       HTN, +CHOL, HYPERLIPIDEMIA, TOB USE 2-3PPDX30YRS> QUIT 10 YRS          AGO.
+     CABG '[**01**] WITH LIMA TO LAD, SVG TP D2, SVG TO OM.
+     CATH [**4-/2109**] WITH STENT PLACEMENT TO NATIVE MID RCA
+     [**11-6**] 3VD PATENT SVG TO OM2- OCCLUSIVE SVG TO DIAG, PATENT LIMA TO LAD, PATENT STENT TO THE MID RCA, PROX RCA HAD A FOCAL 80% STENOSIS & DISTAL RCA HAD A SEVERE FOCAL 90% STENOSIS PRIOR TO ORIGIN OF THE rPDA s/p stent placement to prox & distal RCA.
+
+ADMITTING HX: PT RECENTLY C/O ^SOB WITH EXERTION. WENT FOR ROUTINE ETT C/O CP. ST DEPRESSIONS SEEN IN V5, V6,I & aFL with max st depressions in V5. Nuclear medicine revealed severe reversible defect in distal anterior & apical walls. Severe partial reversible defect in the inferior LV wall. LV dilation @ stress, suggestive of ischemia. Global HK with sn EF of 40% noted. Pt went to cath on [**7-16**] found to of proximal LAD & proximal LCX. 60% midsegment stenosis in prev stented RCA. SVG-D1 known occl. SVG to OM1 midsegment w/ 80% focal lesion LIMA_LAD was patent w/LAD after touchdown TO. The SVG & OM1 was stented but infer pole outflow vessel of the OM had mod slow flow after intervention & was recrossed & dilated restoring flow. Superior pole was dilated and restored as well.  Pt entered V-fib arrest on floor secondary to thrombosis fo OM inferior pole vessel., defib X1, IVB amiod. EKG exhibited st^ in anterolateral leads which lead to recatheterization. 2nd PCI revealed stent patency but occlusion of inferior pole. CP resolved after inferior pole was reopened. Given 320cc of contrast. Arrived w/ no C/O CP but nausea. No vomiting occurred.
+
+NEURO: A&OX3. COOPERATIVE & APPROPRIATE. C/O BACK PAIN D/T CATH PROCEDURE. GIVEN MORPHINE 1MG X2 WITH MINIMAL EFFECT. GIVEN 2MG MORE WITH MOD EFFECT. GIVEN 5TH MG & SERAX @ 0100. PT SLEPT SOUNDLY UNTIL 0500.
+
+CV: NO C/O CP. HR 69-77 W/ PVC'S RARE-OCCASSIONAL. NBP 87-118/40-59. ABP 124-140/55-66. SHEATH PULLED @ 2300. PRESSURE APPLIED FOR 20 MIN. - OOZE OR HEMATOMA PRESENT. TRANS DSG APPLIED C&D. DP +2, PT +1. PT ON [**Name (NI) 5952**] 2 MCG/KG/MIN. RECEIVING 2 LITER OF 2 OF IVF. INITIAL LITER D5 1/2NS GLUCOSE 238, 2ND BAG CHANGED TO 1/2 NS 125CC/HR. AM GLUC 144
+HCT 35.2. K+ 3.6, CA 8.5, phos 5.0, MG 1.7, CK 825. CK/MB 128
+
+RESP: NO C/O SOB. LUNG SOUNDS CLEAR. RR 12-19. O2 SATS 95+ ON 3.0 L VIA NC.
+
+ID: AFEBRILE. MAX PO TEMP 97.4. WBC 14.4.
+
+GI/GU: NPO EXCEPT WITH MEDS. C/O NAUSEA UPON ADMISSION. +BS ALL 4 QUADRANTS, -BM. CONDOM CATH DRAINING CLEAR YELLOW URINE. USING URINAL  @ 0600 W/OUT DIFFICULTY. RECEIVED 320 CC OF CONTRAST DURING STUDY- BUN/CR 11/0.7.
+
+SKIN: WNL
+
+ACCESS: LEFT WRIST #20G.
+
+DISP: FULL CODE
+SOCIAL: FAMILY VISITED.
+
+A: POST CATH TOLERATED WELL. SHEATH PULLED TOLERATED WELL. - COMPLICATIONS.
+
+P: FOLLOW CURRENT MEDICAL MANAGEMENT & C/O PT TO FLOOR. SUPPORT PT WHERE INDICATED. SOCIAL WORKER [**Name (NI) 5953**] PT [**Name (NI) **]
+
+
+[**2173-10-22**] 7:44 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 72198**]
+ Reason: placement of right subclavian line (replaced this am)
+ Admitting Diagnosis: CONGESTIVE HEART FAILURE
+ ______________________________________________________________________________
+ [**Hospital 4**]
+
+
+MEDICAL CONDITION:
+
+
+58 year old obese man s/p cardiac cath, with long history of CHF,  p/w
+          cardiac stent  thrombosis.  s/p line placement.
+
+
+REASON FOR THIS EXAMINATION:
+
+
+placement of right subclavian line (replaced this am)
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+New right subclavian line. Respiratory distress.
+
+ COMPARISONS: [**2173-10-21**]
+
+ SINGLE VIEW CHEST, AP SEMI ERECT:  These films are again technically limited
+ views due to patient's body habitus.  It appears the right subclavian central
+ venous line tip is within the distal right subclavian vein.  The tracheostomy
+ tube appears in proper position within the trachea.  The right IJ central
+ venous line tip within the SVC appears unchanged.  The nasogastric tube is
+ seen coursing below the diaphragm.  Proper evaluation of the lung fields is
+ not possible.
+
+
+IMPRESSION:
+
+
+Right subclavian central venous line tip within distal right
+ subclavian vein.
+
+
+Sinus rhythm, rate 75. Since the previous tracing of [**2148-4-25**] the
+electrocardiogram is essentially unchanged.
+
+
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Patient ps increased last night as Respiraotry rate went up into the 40's. She was more comfortable after ps increased to 10cm.  RSBI this am 80. Breathsounds are coarse. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. Continue to wean as tolerated.
+
+
+[**2195-3-15**] 10:21 PM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 41178**]
+ Reason: eval for PNA
+ Admitting Diagnosis: BILE DUCT OBSTRUCTION
+ ______________________________________________________________________________
+ [**Hospital 4**]
+
+
+MEDICAL CONDITION:
+
+
+79 year old man with fever
+
+
+REASON FOR THIS EXAMINATION:
+
+
+eval for PNA
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+AP CHEST, 10:29 P.M. ON [**3-15**]
+
+
+HISTORY:
+
+
+Fever, rule out pneumonia.
+
+
+IMPRESSION:
+
+
+AP chest compared to [**2-2**]:
+
+ New consolidation and moderate left pleural effusion are readily explained by
+ pneumonia and possible empyema.  Conceivably simple pleural effusion could
+ explain most of the abnormalities, by virtue of relaxation atelectasis.
+
+ Heart size is normal.  Right lung is clear.  Right pleural effusion, minimal
+ if any.  No pneumothorax.
+
+
+Respiratory Care
+Pt cont on CPAP. fio2 .25-.28, bs clear, rr 50's with mild retractions. sx for mod amt. On caffeine. No spells. Plan to trial off CPAP in am.
+
+
+Neonatology NP Note
+PE
+swaddled in open crib, cobedding with twin
+AFOF,sutures opposed
+comfortable respirations in room air, lungs clear/=
+RRR, no murmur, [** 211**] and well perfused
+abdomen soft, nontender and nondistended, active bowel sounds
+active with good tone
+
+
+[**2139-2-13**] 6:13 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8775**]
+ Reason: Eval acute process
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+63 year old woman with CP
+
+
+REASON FOR THIS EXAMINATION:
+
+
+Eval acute process
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+Chest pain.
+
+ No comparison studies available.
+
+ FRONTAL CHEST RADIOGRAPH:  There is moderate cardiomegaly.  A moderate-sized
+ right pleural effusion is present.  Central pulmonary vessel congestion and
+ mild interstitial edema is seen.  There is no pneumothorax.
+
+
+IMPRESSION:
+
+
+CHF.
+
+
+PATIENT/TEST INFORMATION:
+
+
+Indication:
+
+
+Coronary artery disease. Left ventricular function.  Preoperative assessment.
+Height: (in) 65
+Weight (lb): 152
+BSA (m2): 1.76 m2
+BP (mm Hg): 156/77
+HR (bpm): 60
+Status: Inpatient
+Date/Time: [**2119-5-25**] at 15:00
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+
+Findings:
+
+
+LEFT ATRIUM: Normal LA and RA cavity sizes.
+
+LEFT VENTRICLE: Normal LV wall thickness and cavity size. Low normal LVEF. No
+resting LVOT gradient. No VSD.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTA: Mildy dilated aortic root. Normal ascending aorta diameter. Normal
+aortic arch diameter.
+
+AORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Trivial MR.
+
+TRICUSPID VALVE: Normal tricuspid valve leaflets with trivial TR. Normal PA
+systolic pressure.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not visualized. No PS.
+Physiologic PR.
+
+PERICARDIUM: No pericardial effusion.
+
+Conclusions:
+The left atrium and right atrium are normal in cavity size. Left ventricular
+wall thicknesses and cavity size are normal. Overall left ventricular systolic
+function is low normal (LVEF 50-55%). There is no ventricular septal defect.
+Right ventricular chamber size and free wall motion are normal. The aortic
+root is mildly dilated at the sinus level. The aortic valve leaflets (3)
+appear structurally normal with good leaflet excursion and no aortic stenosis
+or aortic regurgitation. The mitral valve leaflets are mildly thickened.
+Trivial mitral regurgitation is seen. The estimated pulmonary artery systolic
+pressure is normal. There is no pericardial effusion.
+
+
+IMPRESSION:
+
+
+Low-normal left ventricular systolic function. No significant
+valvular abnormality seen.
+
+
+Respiratory Care
+
+  Pt continues on full ventilatory support. PEEP decreased as documented. B/S sl coarse sx'd scant. Will continue to follow closely.
+
+
+NPN 1900-0700
+
+Pt status unchanged. Stable throughout night except for resp issues. Requires frequent suctioning for mod to copious amt of secretions. Several times pt brady in 50s and sats dropped to 88% due to copious secretions. VS stabilized after sxing. Anbx changed per ID, zosyn d/c'd and levoquin and flagyl added. Afebrile. Erythema on thighs and abd remains dark red and warm to touch.
+
+
+Pt adm from home after found by his HCW, SOB, pale and diaphoretic. In
+   the EW, Hct found to be 26 down from high 30's. Gastric lavage showed
+   coffee ground. Pt HD stable. CE (-). Pt sent to MICU for further care.
+   EVEVTS:
+   [**1-31**]: EGD
+   Gastrointestinal bleed, upper (Melena, GI Bleed, GIB)
+   Assessment:
+   Pt with presumed UGIB s/p melanotic stool on [**1-29**] in AM requiring
+   blood transfusions to maintain HCT value > 25.  So far received 7 units
+   of PRBC transfusion.  Pt received one unit of PRBC
+s this AM for HCT
+   value of 24.4 with a bump to 27.2 two hours after completion of
+   transfusion.  .  Pt received/maintained on IV Pantoprazole gtt infusing
+   @ 8mg/hr. No  melanotic stool this AM.  Pt remains NPO for EGD.  Abd is
+   soft with positive BS.   The patient is hemodynamically stable.
+   Abdomen soft , distended, patient passing gas but no stoolong yet.
+   Action:
+   Pt Received 7 th unit of PRBC for this shift via PIV.  EGD done today
+   at 0900 am. Received 0.5 mg Midaz X3 (Total : 1.5 mg) & Fentanyl 25 mcg
+   for the procedure. Cauterized the bleeding point successfully.
+   Catheterize the patient , urine sample sent for culture. 1100 cc urine
+   noted soon after  the catheterization.
+   Response:
+   Last HCT value : 27.2. Patient tolerated EGD well. No melanotic stool
+   this shift. Last Hct at 1500 hrs : 26.9. Please see the graph below.
+   Plan:
+   Cont PPI . Cont monitoring for other s/s of bleeding. Goal Hct >25.
+   transfuse PRBC if Hct<25. Check Hct Q 6 hourly. Last Hct due at 2100
+   hrs. If Hct remains stable possible call out [**Doctor First Name 600**].
+   Hypernatremia
+   Assessment:
+    AM Na : 145. Patient is NPO.
+   Action:
+    Started  on  D5W @ 125 ml/hr for 1000 ml X2 . Rechecked Lytes at 1500
+   hrs.
+   Response:
+    At 1500 Hrs : Na; 147.  Order to continue for additional 1 L of D5W.
+   Plan:
+   Recheck Lytes at 2200 hrs.
+   Delirium / confusion
+   Assessment:
+   The pt on Scheduled Quetiapine [**Hospital1 **]  for agitation/confusion today.  The
+   pt has been AAO times one/ zero today.  Pt unable to answer most simple
+   yes/no questions.  Pt is unable to articulate . Patient is very
+   agitated towards the afternoon. Given 12.5 mg of additional seroquel
+   PO. But  seems not responding .
+   Action:
+   Soft wrist restraints along with 1:1 sitter @ BS for pt safety.  Pt
+   freq re-oriented to person/place/time to [**Doctor Last Name 3777**] comfort.   Lights
+   softened to promote pt comfort.  Family members encouraged to
+   visit/interact with pt to [**Doctor Last Name 3777**] pt comfort.  Seroquel 12.5 mg PO X1
+   given as PRN dosage. Switched to Halodol IV 0.5 mg X1   . QTc : 440 ms.
+   Response:
+   The pt rested after receiving Fentanyl 25 mcg & midaz 1.5 mg for the
+   EGD procedure.   Seroquel with minimal response for agitation. Halodol
+   0.5 mg Iv X1 with good effect.
+   Plan:
+   Cont to promote pt comfort, medicate active agitation/delirium,
+   encourage supportive family members to visit/ interact with pt,
+   validate pt feelings, maintain sitter/soft wrist restraints for
+   safety.  EKG fpr QTC interval.
+
+
+Resp Care
+[**Age over 90 404**] y/o M admitted from ER with Hx of HTN, CHF, s/p fem [**Doctor Last Name **] bypass and was intubated due to increased resp distress. Pt remains on A/C with no changes made t/o shift (please see careview for specifics). BS essentially clear sxing for small to mod amts of thick white secretions. Pt oxygenating well on 40%. Will cont to monitor and assess for readiness to wean.
+
+
+50 yo Caucasian male transferred to [**Hospital1 19**] with a large hypertensive
+   IVH. Patient w/h/o HTN was at a wedding two weeks ago when he suddenly
+   became confused and combative c/o severe HA. He presented to [**Hospital1 2020**] via EMS and continued to be combative and confused and
+   complaining of severe headache located in the back of his head.  He was
+   intubated and a head CT there showed a large IVH with blood in the 3rd
+   and 4th ventricles with hydrocephalus and cerebral edema.  SBPs in the
+   250s that were non-responsive to labetalol, but responded to propofol.
+   Per report, he has a history of  hypercholesterolemia and had stopped
+   his medications for the last year [**1-15**] financial difficulties. Dilantin
+   load given at [**Hospital3 735**]. He arrived to the [**Hospital1 19**] ED with SBP in
+   180s, sedated on propofol. He was brought emergently to the OR for
+   placement of bil IVD.
+   v     [**12-3**]    Transferred to step-down unit
+   v     [**12-6**]     Transferred to t/sicu with LLE DVT and Bilateral PE
+   v     [**12-6**]    Transferred to MICU 7 with LLE DVT & Bilat PE
+   v     [**12-7**]    Extubated electively.
+   Pulmonary Embolism (PE), Acute
+   Assessment:
+   Received patient on Heparin gtt at 2000units/hr . Lt Fem angio site
+   C/D/I s/p  IVC filter placement . DVT @ left leg. Ace wrap @ left leg.
+   Pedal pulses  doplerable bilat. Left  toes  purple .
+   Action:
+   Last three PTT  has been therapeutic . Contd Heparin gtt @ [**2160**]
+   units/hr  as per protocol.
+   Response:
+   PTT  @ this shift : 82.9/76.9/74.8.  heparin gtt   contd @
+   2000units/hr.
+   Plan:
+   PTT QD. Goal PTT 60-100
+   Respiratory failure, acute (not ARDS/[**Doctor Last Name 11**])
+   Assessment:
+   S/P extubation yesterday. Received patient on 4 L NC.  Lungs clear at
+   upper lobes bilat & diminished at bases.
+   Action:
+   Weaned O2 to 2 L NC.
+   Response:
+   Satting at high 90
+s & RR 20-30
+   Plan:
+   Continue to monitor resp status .
+   Intracerebral hemorrhage (ICH)
+   Assessment:
+    Both Pupils 5 mm & brisk.  Mental status waxing and [**Doctor Last Name 533**] but pt is
+   arousable and has periods of alertness and periods of confusion and
+   periods of somnolence.  Oriented to self only.  Sister states this has
+   been his norm since the initial incident.
+   Action:
+   Neuro status checks q 4 hours.    ICP drains monitored closely and
+   releveled as needed.  Receiving PO keppra.   Pt able to take PO pills.
+   Response:
+   ICP drainage# 1 & # 2 draining bloo tinged. Drainge amount has been
+   reduced  than yesterday.  Till midnight total ICP drainage : 124 ml.
+   ICP ranging from4-8.    Head dsg  changed.
+   Plan:
+   Continue to monitor neuro checks frequently and alert team to any acute
+   changes.    Continue to monitor and maintain ICP drains closely and
+   notify team for signif changes.
+   Hypertension.
+   Assessment:
+   Pt has remained off pressors>24 hours..   BP ranging 140-180 systolic
+   Action:
+   Hydralazine 10 mg IV given x1, fentanyl 12.5 mg IV given. Metaprolol 5
+   mg IV given X1 for Goal SBP 110-160
+   Response:
+   BP remains  at  140-150
+s after  metaprolol & hydralazine
+   administration.
+   Plan:
+   Cont monitoring SBP closely. Goal SBP 110-160
+s. will restart Clonidine
+   patch today  . Hydralazine PRN IV if needed.
+
+
+MICU NPN Update:
+Pt has been called out to the floor for further care. Will d/c cordis and send to the floor this evening.
+
+
+[**Last Name (LF) 4513**],[**First Name3 (LF) 4514**]                  NMED FA11                  [**2163-4-12**]  8:07 AM
+ MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 96139**]
+ Reason: fMRI needed to map the speech center as requested by Dr [**Last Name (STitle) **]. T
+ Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+  Contrast: MAGNEVIST Amt: 12
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+57 year old woman with a L parietal AVM which has hemorrhaged
+
+
+REASON FOR THIS EXAMINATION:
+
+
+fMRI needed to map the speech center as requested by Dr [**Last Name (STitle) **] [**Last Name (NamePattern4) **] & Dr [**Last Name (STitle) **].
+  [**Doctor Last Name 294**]
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                  PFI REPORT
+ 1.  Stable left parietal intraparenchymal hemorrhage, similar in size and
+ distribution.
+
+ 2.  Multiple nonspecific FLAIR hyperintensities in a callosal-septal striation
+ pattern.  This raises the question of multiple sclerosis; however, the
+ differential remains _____ and includes other conditions such as vasculitis.
+
+
+PATIENT WITH QUIET NIGHT ABG'S IMPROVED WITH SEDATION GOOD ABG ON 60% WITH 16PEEP, ETSECRETIONS THICK MODERATE TO SCANT. SAO2 94%-99%. SR IN THE 80'S SBP 100-120'S WITH ICREASED VS  SBP TO 160'S WITH SUNCTIONING OR TURNING.. AFEBRILE.. RESP AS NOTED BILATERAL BS COARSE, MINIMAL TO MODERATE THICK SECRETIONS, ABG PENDING AT 4AM.. GU GOOD U/O WITH LASIX INTIALLY 5MG THEN 3MG/HR. KREPLACED AS ORDERED, WITH K PENDING THIS AM. GI NGT TO LCS DRAINING PINK SCERTIONS.. ABD. SOFT SLIGHTLY DISTENED, HTPOACTIVE BS.. ABD INCISION CLEAN  NEW DSD PLACED. PEDAL PULSES PALABLE, CSL ON.. CONTINUES ON VANCOMYCIN/CIPRO.ON PLAVIX FORSTENT. ALSO ON HEPARIN SC/ASA. PLAN CONTINUES TO DUIRESIS, ?? HOW TO WAKE UP AND WEAN WITHOUT MAJOR RESP COMPROMISE ??PRECEDEX..
+
+
+Respiratory Care Note
+Pt remains on nasal cannula @1l FIO2 47-53%.  B.S. clear with good air entry.  As of this time 2 bradys noted, caffeine dc'ed.
+
+
+CCU NPN 7A-3P
+Neuro: Sedated with fentanyl @ 60mcg and versed @ 2mg.  Not following commands, grimaces to pain and suctioning, non-purposeful movements of upper extremities.
+
+CV: ABP down to 79/39 with MAP 50 via R radial Aline, CVP 9.  Started on levo @ 2.7mcg/min, given 600ccNS bolus.  After bolus and 1uPRBC CVP up to 15.  Levo titrated down to 2.1mcg/min, ABP 111/55 with MAP 74.
+Hep@1300u/hr, PTT 61.7, no change.  Turned off at 1200 for Quintin placement, restarted after placed @ 1300u without bolus.
+
+Pulm:  LS-crackles at bases, coarse in upper lung fields.  Intubated,  cont on PEEP 5 PS 25 FiO2 40% TV 400-500.  Last ABG 7.47/41/91/31.  Waiting for trach placement.
+
+GI/GU: Ultracal @65cc/hr, residual 2hrs. after kaexylate 180cc, TF held.  Will recheck and restart TF as [** **].  Total 225cc u/o today, +2700cc today, 18.5L LOS.  Creat 2.5, Quintin [** **] placed.  To start CVVHD this afternoon.
+
+Labs: Hct 28.5, 2uPRBC ordered, 2nd unit currently infusing.  K 6.0, given 60mg kaexylate, down to 5.1.
+
+Skin: Duoderm on coccyx fell off, necrotic decubitus ulcer with sanguinous drainage present.  Skin around ulcer red and friable.  Waiting for plastics consult, DSD covering ulcer to protect skin in meantime.  Skin barrier applied, turned Q2hrs, placed on kinair bed.
+
+ID: WBC 17.0, Tmax 100.2R.  Continues on cefepime 2gm Q24hr.
+
+Social: Husband updated by RN, daughter updated by HO.  Still want full treatment, full code.
+
+Plan: Start CVVHD, recheck Hct and K tonight.  Waiting for plastics consult for wound care.
+
+
+Shift Note 7am-7pm
+(Continued)
+off.
+
+
+Respiratory Care Note
+Infant received on settings of 22/5, R28 - weaned to R 24 today per ABG's - most recent 7.29/35/55/18/-8 (R26) - FIO2's mostly 26-38% with some drifts. BS coarse, sx mod cloudy secretions - audible air leak - remains on antibiotics, Dopamine discontinued - continue to monitor, wean [** **] settings as tolerated.
+
+
+NSG NOTE
+ROS:
+
+     CV:NIPRIDE TO MAINTAIN SYS BP<140.AFTER PROPOFOL INCREASED TO BETTER SEDATE PT FOR CT/XRAYS,NIPRIDE ABLE TO BE WEANED OFF.WILL USE NICARPIDINE QTT IF BP CONTROL NEEDED.T MAX 100.3.REMAINS IN NSR WITHOUT ECTOPI.
+
+      RESP:PT ON CPAP WHEN SHIFT STARTED.AGITATED WITH RR 30'S SO PT HEAVILY SEDATED WITH PROPOFOL AND PUT ON CMV UNTIL HEAD CT AND TLS FILMS DONE AND READ.ONCE TLS CLEARED,WILL WEAN AND EXTUBATE PT.
+
+       NEURO:APEARED AWARE BEFORE SEDATION INCREASED.NODDED APPROPIATELY AND FOLLOW COMMANDS.PUPILS =&+.
+
+       GU:ADEQUATE UO.
+
+       GI:NPO,ON IVF,OGT DRNG LARGE AMT GREEN FLD.
+
+       SOCIAL:[**Doctor First Name 901**](SIGN OTHER)AND SISTER IN.SHE IS AWARE OF PLANS,RXS,ETC.ALSO SPOKE TO SOCIAL WORKER.
+
+
+Neonatology Attending Progress Note
+
+Now day of life 10.
+
+Current vent support - HFOV MAP 10 amp 16 and in 21-46% FIO2
+CBG prior to wean on amplitutde 7.44 39 42
+No apnea and bradycardia noted.
+On caffeine.
+HR 140-160s
+MAP in the 30s.
+
+Wt. up 15gm to 590gm on 130cc/kg/d of PN/IL
+NPO because of abnormal gas pattern noted previously.
+Latest KUB gas pattern changed - [**Doctor Last Name **]
+
+ID - blood culture positive for G-neg rods, now on amp, gent and cefotaxime
+
+Lytes 139 5.3 101 21
+
+Bili 3.2 off phototherapy
+
+Hct 37 post transfusion
+
+HUS - no abnormality noted
+
+Assessment/Plan:
+Much more stable day today.
+Will continue on HFOV.
+Continuing to follow abdomen closely for any evidence of NEC.
+Will adjust antibiotics when organism and sensitiviites are available.
+
+[**Doctor Last Name 2**] up to date on status.
+
+
+[**2135-3-29**] 7:27 PM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 51676**]
+ Reason: fever cough
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+65 year old woman with cough,pleuritic cp, hx copd now  with broncho-vesicular
+  bs in rll
+
+
+REASON FOR THIS EXAMINATION:
+
+
+fever cough
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+Fever and cough.
+
+ Portable upright frontal radiograph.  Comparison [**2135-3-1**].
+
+
+FINDINGS:
+
+
+The cardiac and mediastinal contours are within normal limits.
+ There is patchy opacification in the right lower lobe.  The left lung is
+ clear.  There are no pleural effusions and the pulmonary vasculature is
+ normal.
+
+
+IMPRESSION:
+
+
+Right lower lobe pneumonia. Follow up after treatment may be
+ obtained to ensure resolution.
+
+
+Admission Date:  [**2124-7-27**]              Discharge Date:   [**2124-8-8**]
+
+Date of Birth:  [**2056-1-1**]             Sex:   M
+
+Service: CARDIOTHORACIC
+
+Allergies:
+Indocin
+
+Attending:[**First Name3 (LF) 922**]
+Chief Complaint:
+Chest pain/Fatigue/DOE
+
+Major Surgical or Invasive
+
+
+Procedure:
+
+
+[**2124-7-27**] - Redosternotomy, CABGx3(Saphenous vein graft
+(SVG)->Diagonal artery, SVG->Ramus artery, SVG->Posterior left
+ventricular artery), MVR(33mm St. [**Male First Name (un) 923**] 33mm Porcine Valve)
+[**7-29**] - Reexploration for bleeding
+[**8-1**] - Permenant pacemaker placement.
+
+
+History of Present Illness:
+The patient is a 68-year-old gentleman who underwent coronary
+artery bypass grafting for critical symptomatic congestive heart
+failure symptoms back
+in [**2124-1-15**] up in [**Location (un) 5450**], [**Location (un) 3844**].  The patient
+re-presented with a bout of congestive heart failure and Dr.
+[**Last Name (STitle) 78250**] worked the patient up, which showed that all of his vein
+grafts were occluded.  His mammary artery was
+patent to the LAD and there was severe native vessel progression
+as well.  This degree of mitral regurgitation had significantly
+increased as well between [**Month (only) 1096**] and this point.  The patient
+was therefore referred for redo coronary
+artery bypass grafting as well as mitral valve repair or
+replacement.
+
+Past Medical
+
+
+History:
+
+
+CAD s/p CABGx6 in [**1-/2124**]
+CVD
+COPD
+Hyperlipidemia
+HTN
+AAA
+PNA
+MI
+DJD
+Gout
+CRI
+h/o alcohol abuse
+Renal cell cancer s/p nephrectomy
+CHF
+CVD s/p (B) CEA
+
+Social
+
+
+History:
+
+
+Lives with wife in [**Name (NI) **]. Quit smoking two weeks ago. Former heavy
+drinker, currently drinks three beers daily.
+
+Family
+
+
+History:
+
+
+Unremarkable
+
+Physical
+
+
+Exam:
+
+
+74  112/62  67"  188lbs
+GEN: WDWN in NAD
+SKIN: Warm, dry, no clubbing or cyanosis.
+HEENT: PERRL, Anicteric sclera, OP Benign
+NECK: Supple, no JVD, FROM. (B) CEA incisions.
+LUNGS: CTA bilaterally
+HEART: RRR, No R/G, I/VI systolic late blowing murmur, well
+healed sternotomy
+ABD: Soft, ND/NT/NABS. well healed right nephrectomy incision.
+EXT:warm, well perfused, no bruits, no varicosities, L GSV
+harvested Right appears suitable. Mild peripheral edema
+NEURO: No focal deficits. Uses cane for walking d/t left hip
+arthritis.
+
+Pertinent Results:
+[**2124-7-27**] - ECHO
+Pre Bypass: The left atrium is markedly dilated and elongated.
+Color-flow imaging of the interatrial septum raises the
+suspicion of an atrial septal defect, but this could not be
+confirmed on the basis of this study. There is moderate
+symmetric left ventricular hypertrophy. The left ventricular
+cavity size is normal. There is an inferobasal left ventricular
+aneurysm. There is severe regional left ventricular systolic
+dysfunction with an inferior basal aneurysm with akinesis of the
+basal inferior and inferior-septal walls. There is also severe
+hypokineis of the entire lateral and remaing portions of the
+inferior and septal walls, and mild hypokinesis of the anterior
+and anteroseptal walls. LVEF 20%, but given severity of MR, this
+is likely an overestimation of actual LV function. Right
+ventricular chamber size and free wall motion are normal. There
+are complex (>4mm) atheroma in the aortic arch. There are three
+aortic valve leaflets. The aortic valve leaflets (3) are mildly
+thickened but aortic stenosis is not present. No aortic
+regurgitation is seen. The mitral valve leaflets are moderately
+thickened. Moderate to severe (3+) mitral regurgitation is seen.
+The mitral regurgitation vena contracta is >=0.7cm (0.8 cm).
+There is no pericardial effusion.
+
+Post Bypass: No change in Biventricular function. There is a
+bioprosthetic mitral valve in place, no paravalvular leaks.
+Aortic contours intact. Remaing exam is unchanged. All finidngs
+discussed with surgeons at the time of the exam.
+
+
+PROCEDURE:
+
+
+Chest PA and lateral on [**2124-8-7**].
+
+
+COMPARISON:
+
+
+[**2124-8-3**].
+
+
+HISTORY:
+
+
+68-year-old man with status post MVR and CABG, rule out
+effusion.
+
+
+FINDINGS:
+
+
+The loculated right hemithorax effusion including the
+fissures have
+remained stable. The small present left pleural effusion has
+decreased in
+size on today's examination. Persistent cardiomegaly is
+moderate. The left
+subclavian dual-lead pacemaker is unchanged in location. Left
+retrocardiac
+atelectasis is more pronounced on today's examination. The
+pulmonary
+vasculature is slightly prominent but no definite edema is seen.
+
+
+IMPRESSION:
+
+
+1. Loculated right small to moderate pleural effusion, stable.
+2. Improvement of the small left pleural effusion.
+3. Moderate cardiomegaly.
+
+[**2124-8-7**] 01:43AM BLOOD WBC-12.2* RBC-3.00* Hgb-8.6* Hct-26.8*
+MCV-90 MCH-28.6 MCHC-31.9 RDW-15.2 Plt Ct-611*#
+[**2124-8-6**] 04:35AM BLOOD Hct-27.7*
+[**2124-8-2**] 02:20AM BLOOD PT-12.9 PTT-22.6 INR(PT)-1.1
+[**2124-8-7**] 01:43AM BLOOD Glucose-94 UreaN-23* Creat-1.0 Na-133
+K-4.6 Cl-97 HCO3-29 AnGap-12
+
+Brief Hospital Course:
+Mr. [**Known lastname 6164**] was admitted to the [**Hospital1 18**] on [**2124-7-27**] for surgical
+management of his coronary artery and vein graft disease. He was
+taken directly to the operating room where he underwent a
+redosternotomy with coronary artery bypass grafting to three
+vessels and a mitral valve replacement using a 33mm St. [**Male First Name (un) 923**]
+porcine valve. Please see operative note for details.
+Postoperatively Mr. [**Known lastname 6164**] was transferred to the intensive care
+unit for monitoring. He initially required inotropes and packed
+red blood cells for pressure support and anemia. Complete heart
+block was noted under his temporary pacemaker and the EP service
+was consulted. A pacemaker was likely needed. He was
+successfully extubated on postoperative day one. On
+postoperative day two, he developed high output from his chest
+tubes and was reintubated. He was taken to the operating room
+where he was re-explored for bleeding and hemostasis was
+acheived of a bleeding branch of a vein graft. He was then
+returned to the intensive care unit for monitoring. The next
+morning he awoke neurologically intact and was extubated. He
+remained pacer dependent. Plavix, aspirin and a statin were
+resumed. As it was unlikely his conduction system would recover,
+the electrophysiology service placed a permenant pacemaker on
+[**2124-8-1**] without complication. The hematology service was
+consulted for thrombocytopenia. Although his HIT assay was
+negative, it was recommended to treat as if he was HIT positive.
+Thus, all heparin products were avoided and a serotonin release
+HIT assay was sent and if positive, it is recommended he be
+treated with argatroban and coumadin. His platelets recovered.
+On [**2124-8-2**], he was transferred to the step down unit for further
+recovery. The physical therapy service was consulted for
+assistance with his postoperative strength and mobility.Plavix
+was resumed. He required agressive diuresis and remained in the
+hospital for diuresis.  Repeat HIT antibody was negative. SRA is
+still pending. His pacemaker was interrogated on [**8-8**], adn wsa
+found to be functioning correctly. He was noted to have 3 5
+minute episodes of atrial fibrillation, he was switched to a
+full aspirin.  He will follow up with the device clinic in 6
+weeks. He was ready for discharge home on POD #12.
+
+Medications on Admission:
+Aspirin 325'
+Crestor 20'
+Iron 325'
+MVI
+Plavix 75'
+Digoxin 0.25'
+Lisinopril 5'
+Lopressor 50"
+
+
+Discharge Medications:
+1. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+2. Rosuvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+3. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO
+Q4H (every 4 hours) as needed.
+Disp:*50 Tablet(s)* Refills:*0*
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Lasix 40 mg Tablet Sig: One (1) Tablet PO twice a day for 2
+weeks.
+Disp:*20 Tablet(s)* Refills:*0*
+6. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal Sig:
+One (1) Tab Sust.Rel. Particle/Crystal PO twice a day for 2
+weeks.
+Disp:*28 Tab Sust.Rel. Particle/Crystal(s)* Refills:*0*
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+8. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1)
+Tablet, Delayed Release (E.C.) PO once a day.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital3 **]
+
+Discharge Diagnosis:
+CAD s/p Redo CABGx3/MVR
+CHB s/p PPM
+H/O CABGx6 [**1-/2124**]
+CVD s/p Bilat CEA
+COPD
+Hyperlipidemia
+HTN
+AAA
+PNA
+MI in past
+CRI
+Gout
+
+
+Discharge Condition:
+Stable
+
+
+Discharge Instructions:
+1)  Monitor wounds for signs of infection. These include
+redness, drainage or increased pain. In the event that you have
+drainage from your sternal wound, please contact the [**Name2 (NI) 5059**] at
+([**Telephone/Fax (1) 1504**].
+2)  Report any fever greater then 100.5.
+3)  Report any weight gain of 2 pounds in 24 hours or 5 pounds
+in 1 week.
+4)  No lotions, creams or powders to incision until it has
+healed. You may shower and wash incision. Gently pat the wound
+dry.  Please shower daily.  No bathing or swimming for 1 month.
+Use sunscreen on incision if exposed to sun.
+5) No lifting greater then 10 pounds for 10 weeks.
+6) No driving for 1 month.
+7) Call with any questions or concerns.
+
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) 914**] in 2 weeks. ([**Telephone/Fax (1) 1504**]
+Please call for appt.
+Please follow-up with Dr. [**Last Name (STitle) 78250**] in 4 weeks.
+Please follow-up with Dr. [**Known firstname **] in 6 weeks. [**Telephone/Fax (1) 78347**]
+Please follow-up with the device clinic on [**9-18**] at 9:00, [**Hospital Ward Name 23**]
+Building [**Location (un) 436**], [**Telephone/Fax (1) 62**].
+
+
+
+Completed by:[**2124-8-8**]
+
+
+PATIENT/TEST INFORMATION:
+
+
+Indication:
+
+
+Rule out tamponade
+BP (mm Hg): 110/62
+HR (bpm): 72
+Status: Inpatient
+Date/Time: [**2149-6-21**] at 08:58
+Test: Portable TTE(Complete)
+Doppler: Complete pulse and color flow
+Contrast: None
+Technical Quality: Adequate
+
+
+INTERPRETATION:
+
+
+Findings:
+
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: A catheter or pacing wire is seen in the
+right atrium and/or right ventricle.
+
+LEFT VENTRICLE: The left ventricular cavity size is normal. Due to suboptimal
+technical quality, a focal wall motion abnormality cannot be fully excluded.
+Overall left ventricular systolic function is normal (LVEF>55%).
+
+RIGHT VENTRICLE: Right ventricular chamber size is normal.
+
+MITRAL VALVE: The mitral valve leaflets are mildly thickened.
+
+PERICARDIUM: There is a small pericardial effusion. There are no
+echocardiographic signs of tamponade.
+
+GENERAL COMMENTS: Emergency study performed by the cardiology fellow on call.
+
+Conclusions:
+The left ventricular cavity size is normal. Due to suboptimal technical
+quality, a focal wall motion abnormality cannot be fully excluded. Overall
+left ventricular systolic function is normal (LVEF>55%). Right ventricular
+chamber size is normal. The mitral valve leaflets are mildly thickened. There
+is a very small pericardial effusion. There are no echocardiographic signs of
+tamponade.
+
+
+npn: 0700-1900
+full code
+
+mrsa, acetobacter, c-diff----strict contact precautions
+
+all: lisinopril
+
+picc l, 20 g hand piv
+
+signifcant events: this am pt was difficult to arouse and minimally responsive to painful stimuli. abg suggested pt was acidoic--pt was having periods of apnea/low mv. please see carevue for am abg's. pt was taken to ct to r/o a sdh and have a chest ct. pt head was negative but chest ct showed a increase in plueral effusion. ? may be why pt was having trouble ventilating this am. pt is to have a plueral tap this afternoon/evening. since pt was placed on smiv-- abg's have improved, pt mental status has started to clear sligtly. pt has not interacted with family with gestures/mouthing words as before but has started to open eyes. cont to monitor mental status and abg's.
+
+neuro: currently family at bedside. pt started to move right hand and open eyes spontaneously at times but pt continues to remain lethargic. pt had zyprexa/risperdal d/c'ed [**12-26**] lethargy. puplis are equal and reactive. pt is italian speaking. pt did not follow commands for this rn but has in the past. wrist rest in place [**12-26**] to hx of pulling lines and tubes.
+
+cv: afib. with occasional pvc's. sbp 89-125/55-60. maps 55 or greater. may need metoprolol frequency changed [**12-26**] to drop in bp after dose. pt has bilateral ppp (diff to palpate). +2 pitting edema. coumadin on hold.
+
+resp: pt was placed on a smiv this am [**12-26**] resp acidosis--apnea and low mv. pt is on a rate of 8. lungs are coarse to clear with exp wheezes heard this afternoon. pt suction q 3-4 hours for thick yellow secretions. please see carevue for abgs.
+
+gi/gu: +bs, abd soft/obese, nontender, non distended, tf at goal. minimal residuals. foley in place, draining clear yellow urine output. gallstones since on  ct---? cholecyctitis pt is to have us this evening. tf off at this time.
+
+skin: pt has reddness on backside of thigh--barrier cream applied. pt has duoderm intact on left hip. otherwise skin is intact.
+
+id: abx on hold at this time except for falgyl. md's may restart other abx tonight???. tmax 100.4
+
+social: large family. daughter in-law [**Doctor Last Name **] is the spokesperson.
+
+
+Admission Note
+     BABY BOY [**Known lastname 5072**] ADM TO TRIAGE FOR TACHYPNEA WITH GRUNTING, HYPOGLYCEMIA, R/O BRACHIAL PLEXUS INJURY.  ON ADMISSION INFANT IS ACTIVE BUT WITHOUT MOVEMENT OF LEFT ARM.  IS ABLE TO GRASP WITH LEFT HAND.  MARKED FACIAL BRUISING, BRUISE ALSO NOTED LEFT CHEST.  VSS, SEE FLOW SHEET. O2 SATS > 94 UNTIL FREQUENT DRIFTS NOTED AFTER 0400 FEDING.  CBC AND BLOOD CULTURES SENT AT 0630.  RARE DRIFTING NOTED AFTER LAB WORK DRAWN.  BBS COARSE INITIALLY, CLEARER NOW.  DOES HAVE STRIDOR WITH CRY. MURMUR NOTED.  PULSES NL. FEEDING ON A THREE HOUR SCHEDULE, FEEDS WELL. ONETOUCH 40-53. VOIDING AND PASSING MECONIUM.
+TEMP STABLE ON OFF WARMER.  IRRITABLE WHEN DISTURBED. NO CONTACT WITH [**Name2 (NI) **].
+
+
+[**2159-2-2**] 9:47 AM
+ BABYGRAM (CHEST ONLY)                                           Clip # [**Clip Number (Radiology) 68446**]
+ Reason: Increased oxygen requirement
+ Admitting Diagnosis: NEWBORN
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+Infant with RSV
+
+
+REASON FOR THIS EXAMINATION:
+
+
+Increased oxygen requirement
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+HISTORY:
+
+
+Severe RSV bronchiolitis with worsening O2 requirement.
+
+ Portable chest, 9:55 a.m, [**2159-2-2**].
+
+ Comparison is made with the study obtained 2 days earlier.
+
+ The baby remains extubated.  NG tube enters the stomach.
+
+ Aeration of the lungs has worsened, and there are more pronounced focal lung
+ opacities in the right upper, right lower, left upper and left lower lobes.
+ These findings are all likely related to hypoventilation secondary to the
+ patient's severe RSV, however, superimposed consolidation due to bacterial
+ pneumonia cannot be entirely excluded.
+
+ Heart size remains stable.
+
+ No other changes.
+
+
+IMPRESSION:
+
+
+Overall, worsening aeration, with new biapical and bibasilar lung
+ opacities.  This was discussed with the clinical service.
+
+
+[**2201-7-3**] 2:35 PM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 56890**]
+ Reason: check for ptx and lung re-expansion, patient in the WPC.
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+77 year old man with right pleural effusion s/p thoracnetesis
+
+
+REASON FOR THIS EXAMINATION:
+
+
+check for ptx and lung re-expansion, patient in the WPC.
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+Right pleural effusion, status post thoracocentesis.
+
+
+COMPARISON:
+
+
+[**2201-6-26**].
+
+ CHEST RADIOGRAPH, PORTABLE AP UPRIGHT VIEW:  Again noted is elevation of the
+ right hemidiaphragm, similar from prior study. Unchanged small right pleural
+ effusion. No effusion is noted on the left.
+
+ There is mild atelectasis in the right base.  The cardiomediastinal and hilar
+ contours are normal.  There is no pneumothorax.
+
+
+IMPRESSION:
+
+
+Unchanged small right pleural effusion.  No pneumothorax.
+
+
+MICU NPN 7P-7A
+NEURO: INITIALLY LETHARGIC BUT AROUSABLE WITH DAUGHTER IN ROOM, DIFFICULT TO UNDERSTAND. OPENING EYES AND INCONSISTENTLY FOLLOWING COMMANDS. LATER WITH BIPAP ON MORE AGITATED, PULLING AT MASK. BILAT SOFT WRIST RESTRAIINTS IN PLACE. RECEIVED 1MG HALDOL WITH MINIMAL EFFECT. LATER MUCH CALMER, AROUSABLE, UNABLE TO ASSESS ORIENTATION AS SHE IS NOT ANSWERING QUESTIONS. MOVING ALL EXTREMITIES. GAG IMPAIRED. DENIES PAIN.
+
+CARDIAC: HR 74-102 AF WITH FREQUENT PVC'S. BP 97-140/38-69. PULSES PALPABLE AND BY DOPPLER. HCT 27.7 DOWN FROM 30.2. INR 2.3, UP FROM 2, DID NOT RECEIVE COUMADIN LAST NIGHT. NO SIGNS OF BLEEDING.
+
+RESP: RECEIVED ON 50% COOL NEB MASK. LS WITH I/E WHEEZES. NEBS AS ORDERED. LATER CHANGED TO BIPAP 10/+5 40%. RR 20-40 WITH TV 300-400CC. VBG 7.32/75/35. RT REMOVED BIPAP AND PLACED PT BACK ON COOL NEB @70%. SATS 90-97%. LS COARSE WITH DIMINISHED BASES. CXR DONE THIS MORNING. ON PREDNISONE.
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS. NO STOOL. NO GI ACCESS. UOP 20-140CC/HR S/P DIURETICS. LT YELLOW AND CLEAR. CREAT 2.2.
+
+FEN: WAS NOT REACHING GOAL OF -500CC BY END OF DAY. GIVEN EXTRA DOSE OF EDECRIN AND DIURIL BUT ONLY -100CC @2300. PERIPHERAL EDEMA PRESENT. LYTES PER CAREVUE. NPO WITH NO GI ACCESS AND UNABLE TO RECEIVE PO MEDS, MD AWARE.
+
+ID: TMAX 95.6 WITH WBC 11.4 DOWN FROM 14.8. CONTINUES ON CEFTRIAXONE FOR UTI. CONTACT PRECAUTIONS.
+
+SKIN: MULTIPLE ECCHYMOTIC AND HEMATOMAS ON EXTREMITIES. NO BREAKDOWN.
+
+ACCESS: PIV X1, RIGHT BRACHIAL PICC.
+
+SOCIAL/DISPO: DAUGHTER VISITING. DR [**Last Name (STitle) 4503**] SPOKE WITH HER TO CONFIRM STATUS. PT IS A DNR BUTWOULD BE INTUBATED. PLAN INTERMITTENT BIPAP, CONTINUED DIURESIS, WILL NEED TO PLACE DOBHOFF TUBE FOR TF'S AND MEDS.
+
+
+PATIENT/TEST INFORMATION:
+
+
+Indication:
+
+
+Aortic valve disease. Congestive heart failure. H/O cardiac surgery.  Left ventricular function.
+Height: (in) 59
+Weight (lb): 112
+BSA (m2): 1.44 m2
+BP (mm Hg): 80/40
+HR (bpm): 72
+Status: Inpatient
+Date/Time: [**2117-9-21**] at 22:13
+Test: Portable TTE (Complete)
+Doppler: Full Doppler and color Doppler
+Contrast: None
+Technical Quality: Suboptimal
+
+
+INTERPRETATION:
+
+
+Findings:
+
+
+The underlying rhythm appears to be atrial fibrillation with ventricular paced
+rhythm.
+LEFT ATRIUM: Mild LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Mildly dilated RA. A catheter or pacing wire
+is seen in the RA and extending into the RV.
+
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size. Suboptimal
+technical quality, a focal LV wall motion abnormality cannot be fully
+excluded. Low normal LVEF.
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion.
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). No AR.
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate mitral annular
+calcification. Mild thickening of mitral valve chordae. Calcified tips of
+papillary muscles. No MS. Moderate (2+) MR. [Due to acoustic shadowing, the
+severity of MR may be significantly UNDERestimated.]
+
+TRICUSPID VALVE: Mildly thickened tricuspid valve leaflets. Mild to moderate
+[[**2-7**]+] TR. Mild PA systolic hypertension.
+
+PULMONIC VALVE/PULMONARY ARTERY: Thickened pulmonic valve leaflets.
+
+PERICARDIUM: No pericardial effusion.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. Based on [**2109**]
+AHA endocarditis prophylaxis recommendations, the echo findings indicate a
+moderate risk (prophylaxis recommended). Clinical decisions regarding the need
+for prophylaxis should be based on clinical and echocardiographic data.
+Emergency study performed by the cardiology fellow on call. Right pleural
+effusion.
+
+Conclusions:
+Suboptimal technical quality.
+The left atrium is mildly dilated. There is mild symmetric left ventricular
+hypertrophy with normal cavity size. Due to suboptimal technical quality, a
+focal wall motion abnormality cannot be fully excluded. Overall left
+ventricular systolic function is low normal (LVEF 50-55%). Right ventricular
+chamber size and free wall motion are normal. A bioprosthetic aortic valve
+prosthesis is present. The gradient was not assessed and the leaflets are not
+well seen. No aortic regurgitation is seen. The mitral valve leaflets and
+supporting structures are thickened. At least moderate (2+) mitral
+regurgitation is seen. [Due to acoustic shadowing, the severity of mitral
+regurgitation may be significantly UNDERestimated.] The tricuspid valve
+leaflets are mildly thickened. There is mild pulmonary artery systolic
+hypertension. The pulmonic valve leaflets are thickened. There is no
+pericardial effusion.
+
+
+IMPRESSION:
+
+
+Symmetric left ventricular hypertrophy with low normal systolic
+function. At least moderate mitral regurgitation. Pulmonary artery systolic
+hypertension.
+
+Based on [**2109**] AHA endocarditis prophylaxis recommendations, the echo findings
+indicate a moderate risk (prophylaxis recommended). Clinical decisions
+regarding the need for prophylaxis should be based on clinical and
+echocardiographic data.
+
+
+[**2180-11-17**] 5:33 PM
+ CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 94436**]
+ Reason: ?PE
+  Contrast: OPTIRAY Amt: 100
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+41 year old man with SOB s/p esophageal surgery
+
+
+REASON FOR THIS EXAMINATION:
+
+
+?PE
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ WET READ: YGd FRI [**2180-11-17**] 6:23 PM
+  No PE.  Small R effusion and bibasilar atx.  Expected post esophagectomy and
+  gastric pullthrough appearance.
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+41-year-old male with shortness of breath, status post
+ post-esophagectomy.  Question PE.
+
+
+COMPARISON:
+
+
+None available.
+
+
+TECHNIQUE:
+
+
+MDCT of the chest was performed prior to and following
+ administration of intravenous contrast as per CTA protocol.  Multiplanar
+ reformations were generated.
+
+ CT CHEST:  The aorta is normal in caliber throughout without acute pathology.
+ There is normal three-vessel arch configuration.  The main pulmonary artery is
+ normal in caliber.  There is normal opacification of the pulmonary arterial
+ tree, with tapering distally.  There is no lobar or segmental filling defect
+ to suggest pulmonary embolism.  The heart is normal in size without
+ pericardial effusion.  Patient is status post esophagectomy and neo-esophageal
+ gastric pull-through with expected postsurgical appearance.  There is material
+ within the neoesphagus, suggestive of mild stasis. Central airways are patent.
+ A small pleural effusion is present on the right with bibasilar linear
+ atelecatsis.
+
+ Limited subdiaphragmatic evaluation demonstrates no significant visceral
+ abnormality other than left upper quadrant mesenteric haziness, which is
+ incompletely evaluated.
+
+ BONE WINDOWS:  No definite focal concerning lesion.
+
+
+IMPRESSION:
+
+
+No evidence of pulmonary embolism.  Small right pleural effusion
+ and postsurgical appearance of esophagectomy with gastric pull-through.
+ (Food) material within the neoesphagus, to just above the carina suggestive of
+ stasis, which may increase risk of aspiration.
+
+ Findings reported to Dr. [**Last Name (STitle) **], [**First Name3 (LF) **] at the time of dictation on [**2180-11-17**].
+
+                                                             (Over)
+
+ [**2180-11-17**] 5:33 PM
+ CTA CHEST W&W/O C&RECONS, NON-CORONARY                          Clip # [**Clip Number (Radiology) 94436**]
+ Reason: ?PE
+  Contrast: OPTIRAY Amt: 100
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+(Cont)
+
+
+Lactation Consult
+Met w/ mother today to assess infant's positioning and interest in breastfeeding. Baby positioned cross cradle using a bed pillow. Suggested mom use a breastfeeding pillow for better support. Reviewed pumping goal of 8X per day. Encouraged skin to skin contact. Infant was very sleepy during this session. Will meet w/ mother by next Weds. to assess milk supply and latch.
+
+
+PATIENT/TEST INFORMATION:
+
+
+Indication:
+
+
+?Pulmonary embolism.
+Height: (in) 78
+Weight (lb): 510
+BSA (m2): 3.36 m2
+BP (mm Hg): 98/68
+HR (bpm): 107
+Status: Inpatient
+Date/Time: [**2128-5-1**] at 11:08
+Test: Portable TTE (Focused views)
+Doppler: Limited Doppler and color Doppler
+Contrast: None
+Technical Quality: Suboptimal
+
+
+INTERPRETATION:
+
+
+Findings:
+
+
+LEFT ATRIUM: Moderate LA enlargement.
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: RA not well visualized.
+
+LEFT VENTRICLE: LV not well seen. Cannot assess LVEF.
+
+RIGHT VENTRICLE: RV not well seen.
+
+AORTA: Mildy dilated aortic root. Normal ascending aorta diameter.
+
+AORTIC VALVE: ?# aortic valve leaflets. Aortic valve not well seen.
+
+MITRAL VALVE: Mitral valve leaflets not well seen.
+
+TRICUSPID VALVE: Tricuspid valve not well visualized.
+
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen.
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. Suboptimal
+image quality - body habitus.
+
+Conclusions:
+The left atrium is moderately dilated. The left ventricle is not well seen.
+Overall left ventricular systolic function cannot be reliably assessed. The
+aortic root is mildly dilated at the sinus level. The number of aortic valve
+leaflets cannot be determined. The aortic valve is not well seen. The mitral
+valve leaflets are not well seen.
+
+
+IMPRESSION:
+
+
+Suboptimal image quality. Inconclusive study for assessment of
+right or left ventricular function.
+
+
+NEURO:  [** **], APPREHENSIVE. MAE ON COMMAND. FREQUENT ATTEMPTS TO TAKE OF CPAP MASK. PULLED OUT R RADIAL ALINE. SOFT HAND RESTRAINTS APPLIED. UNABLE TO GIVE PO KLONOPINE D/T NEED FOR CPAP MASK. COUGHING WITH MOUTH CARE WHEN OFF CPAP MASK. MORPHINE 2MG IV X 1 FOR C/O HEAD AND FACE DISCOMFORT FROM MASK.
+
+PULM:  PCO2 DOWN TO 59 ON CPAP 40%, PS 15. PCO2 UP TO 70 OFF CPAP AND ON HIGH FLOW FACE MASK FOR ~ 1 HOUR.  COUGHED UP HUGE THICK DARK BROWN MUCUS PLUG OFF CPAP. LUNGS FAIRLY CLEAR.
+
+CV: NSR WITH RARE PVC. SBP 95-120. STERNAL DSG STAPLED, SMALL AMT SEROSANGUINOUS DRAINAGE. STERNUM STABLE, NO STERNAL CLICK DETECTED. PEDAL PULSES 3+ BILATERALLY, EXTENSIVE VENOUS STASIS BILATERAL LE, CSL ON. RIJ TRIPLE LUMEN TRAUMA LINE INTACT, UNABLE TO ASPIRATE BLOOD FROM BLUE AND BROWN PORTS, FLUSHES WELL. PT PULED PUT R RADIAL ALINE. SEVERAL ATTEMPTS TO PLACE NEW ALINE UNSUCCESSFUL [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] PA. ABG'S OBTAINED BY RADIAL STICK WITH DIFFICULTY.
+
+ENDO:  Q4H HUMALOG COVERAGE OF BLD SUGARS.
+
+GI:  ABDOMEN SOFT, + BS. NPO.
+
+GU:  FOLEY TO CD. LASIX GTT INCREASED FROM 3MG/HR TO 5MG/HR AT 0200 TO KEEP HUO > 100CC/HR. LASIX REPLETED.
+
+SOCIAL: NO VISITORS OR PHONE INQUIRIES.
+
+PLAN:  CONTINUE DIURESIS, CPAP. RESTART RADIAL ALINE FOR PULMONARY MONITORING. MONITOR STERNUM STABILITY. RESTART PO MEDS.
+
+
+[**2110-3-20**] 7:26 AM
+ NEONATAL HEAD PORTABLE                                          Clip # [**Clip Number (Radiology) 9506**]
+ Reason: TRIPLET BORN AT 30 WEEKS, RULE OUT INTRACRANIAL HEMORRHAGE OR OTHER ABNORMALITY
+ Admitting Diagnosis: NEWBORN
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+Infant born at 30 weeks gestation
+
+
+REASON FOR THIS EXAMINATION:
+
+
+rule out intracranial hemorrhage or other abnormality
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+HEAD ULTRASOUND:
+
+ This is our initial ultrasound on this triplet born at 30 week gestation.
+ Scans through the anterior fontanelle with limited views through the mastoid
+ foramen do not demonstrate any abnormalities.  Specifically there is no
+ evidence of hemorrhage or ventriculomegaly.
+
+
+NPN
+
+
+#2  TF 120cc/k/d.  Enteral feeds currently at 100cc/k/d=24cc
+Q3hrs of BM20/neosure22.  Rec'g IVF D10W with 2meq
+NaCl/100cc via PIV.  DS 52, 53, and 48--IVF increased to
+2.5cc/hr.  Infant bottled full bottle x1.  Mom up to BF and
+infant latched and sucked on/off for 10 min.  Abd soft, +BS,
+no loops.  AG 23cm.  No spits.  Max asp 2.8cc.  Voiding and
+stooling guiac neg.  Wt [**2036**](+35gms).
+
+#3  Infant nested in air mode isolette.  Sleeps quietly when
+left alone.  Active and alert with cares.  Temp stable.
+
+#4  Mom up at 9pm.  She put infant to breast with minimal
+assistance.  Asking appropriate questions.  Mom to be
+discharged today.  Parents do not wish to transfer infant
+closer to home in [**Location (un) 119**].
+
+#5  Infant remains under Neoblue with eye shields in place.
+Bili sent this am--results pending.  Hct this am 60.7 retic
+pending.
+
+
+TITLE:
+   Chief Complaint:
+   24 Hour Events:
+   -intrathecal cytarabine last night at 10pm , will receive methotrexate
+   today
+   -transfused one unit last night for Hct < 21
+   -HIV negative
+   -Lasix gtt decreased due to hypotension to 87 systolic, pt continues to
+   have good UOP
+   -vanco d/c
+ed per ID recs and docycline started for possible mycoplasma
+   hominisis that grew from sputum cx
+   -decreased PSV this morning to 15/10
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftazidime - [**2144-7-20**] 08:00 AM
+   Ciprofloxacin - [**2144-7-22**] 12:00 PM
+   Vancomycin - [**2144-7-22**] 04:00 PM
+   Bactrim (SMX/TMP) - [**2144-7-22**] 04:00 PM
+   Doxycycline - [**2144-7-22**] 08:16 PM
+   Fluconazole - [**2144-7-22**] 11:10 PM
+   Meropenem - [**2144-7-23**] 06:12 AM
+   Infusions:
+   Midazolam (Versed) - 3 mg/hour
+   Furosemide (Lasix) - 1 mg/hour
+   Fentanyl (Concentrate) - 125 mcg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2144-7-22**] 08:00 AM
+   Heparin Sodium (Prophylaxis) - [**2144-7-22**] 08:00 AM
+   Furosemide (Lasix) - [**2144-7-22**] 12:00 PM
+   Other medications:
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2144-7-23**] 06:39 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 39
+C (102.2
+   Tcurrent: 37.8
+C (100
+   HR: 108 (100 - 113) bpm
+   BP: 106/56(72) {87/40(57) - 129/61(80)} mmHg
+   RR: 18 (8 - 35) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 90.8 kg (admission): 81.7 kg
+   Height: 69 Inch
+    CVP: 6 (2 - 13)mmHg
+   Total In:
+                                                                  6,070 mL
+                                                                  1,494 mL
+   PO:
+   TF:
+                                                                    644 mL
+                                                                    402 mL
+   IVF:
+                                                                  4,875 mL
+                                                                    852 mL
+   Blood products:
+                                                                    150 mL
+                                                                    200 mL
+   Total out:
+                                                                  3,670 mL
+                                                                  1,480 mL
+   Urine:
+                                                                  3,570 mL
+                                                                  1,480 mL
+   NG:
+                                                                    100 mL
+   Stool:
+
+
+ECG interpreted by ordering physician.
+[**Name10 (NameIs) 2**] see corresponding office note for interpretation.
+
+
+Neonatology
+Remains in RA since last Friday. Comfortable appearing. Intermittent desats. Soft murmur as before. On diuril.
+
+Wt 2580 down 5. On SC 28 at 130 cc/k/d. Takign po once per shift. Rest via gavage. Abdomen benign. Lytes to be rechecked on Thursday.;
+
+Continue as at present. Awaiitng maturation of resp control and feeds.
+
+
+TITLE:
+   Chief Complaint: respiratory distress
+   24 Hour Events:
+   [**10-14**]:
+   -HCT stable, no transfusions
+   -f/u TB records
+   -legionella negative
+   -currently on solumedrol
+   -recheck ABG
+   -defer actue EGD
+   -IVF with LR due to acidosis
+   -monitor K+
+   - pt became more anxious when given ativan for PICC line.
+   - goal plateau <30;
+   - unable to place A-line
+   - overnight FiO2 weaned to 50% and PEEP to 12, ABG's show excellent
+   PO2's, should follow gases not sats, b/c they do not appear to be
+   [**Location (un) 103**] correctly
+   Allergies:
+   Amlodipine
+   Cough;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2183-10-15**] 03:00 AM
+   Azithromycin - [**2183-10-15**] 04:00 AM
+   Infusions:
+   Fentanyl - 150 mcg/hour
+   Midazolam (Versed) - 3 mg/hour
+   Other ICU medications:
+   Lorazepam (Ativan) - [**2183-10-14**] 11:20 AM
+   Other medications:
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2183-10-15**] 07:04 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.5
+C (99.5
+   Tcurrent: 36.3
+C (97.3
+   HR: 85 (72 - 125) bpm
+   BP: 108/60(71) {103/47(61) - 167/140(143)} mmHg
+   RR: 16 (16 - 37) insp/min
+   SpO2: 90%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Wgt (current): 58.3 kg (admission): 59.2 kg
+             Total In:
+                                                                  4,098 mL
+                                                                    998 mL
+   PO:
+             TF:
+   IVF:
+                                                                  4,098 mL
+                                                                    998 mL
+   Blood products:
+   Total out:
+                                                                    690 mL
+                                                                    190 mL
+   Urine:
+                                                                    690 mL
+                                                                    190 mL
+   NG:
+   Stool:
+
+
+Admission Note
+One day old 36 [**4-18**] infant girl admitted to NICU this afternoon for respiratory distress. Delivered by repeat c/s yesterday.  Please see Attending note for detailed history.  Admitted to open warmer, temp 98.6r, HR=146 RR=66 Sat=95% in RA. BP 69/33(46).  Soft murmur heard. Retracting and tachypneic with RR 60-90s. [**Hospital1 4956**] and BC drawn. IV started D10W @60cc/kg/d. Initial d/s=87. abd soft, +BS, no void or stool since admission. Started on amp and gent. CXray done.  Mom and Dad in to visit, oriented to NICU policy and procedures. Mom appropriately [**Name2 (NI) 6**]. Discussed antibiotic course, IV fluids and plan to call Mom up to breastfeed when hungry.
+
+
+[**Age over 90 323**] yo women with AFib on coumadin, CHF, b/l pleural effusions,
+   atelectasis.  Was admitted with floor and developed worsending
+   hypoxemia.  Lasix, and respiratory status improved.  CTA showed no PE,
+   LLL collapse and mediastinal LAD.  Over course of day yesterday AF with
+   RVR, worsening SOB.  Transferred to ICU.  HR improved with PO
+   lopressor.
+   Code Status: DNR but can intubate.
+   Atrial fibrillation (Afib)
+   Assessment:
+   I received the patient in AF with HR of 110 to 120
+s. Her blood
+   pressure was in the 90
+s. Over the course of the night her heart rate
+   went up to the 140
+s to 150
+s AF with blood pressure in the low 100
+   . She did not receive her afternoon dose of metoprolol 75mg [**2-24**] low
+   blood pressure in the 80
+   Action:
+       Midnight dose of metoprolol  was given.
+   Response:
+       Her blood pressure stayed in the low 100
+       Her heart rate is AF 117-130
+   Plan:
+       Monitor heart rate
+       Given the metoprolol. There is holding perimeters
+   Hypoxemia
+   Assessment:
+       Patient with positive CXR on admission for PNA. Her CXR from
+   yesterday sho
+   Action:
+   Response:
+   Plan:
+
+
+Respiratory Care Note
+PT remains on Prong CPAP +5 FIO2 30-34%.  B.S. clear with good air entry.  As of this time without apnea or bradys noted, pt remains on caffeine.
+
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details.Suctioned for mod amts thick white secretions. MDI'S given. HR-ST. Sedated with propofol. RSBI done on 0 peep/5 ips 189. Will [** **] to monitor resp status.
+
+
+Sinus rhythm. Low limb lead voltage. Delayed precordial R wave progression as
+recorded on the tracing of [**2162-5-20**]. No diagnostic interim change.
+
+
+[**2119-8-18**] 10:06 AM
+ CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 106240**]
+ Reason: r/o pneumonia
+ Admitting Diagnosis: ASCITES, HYPOGLYCEMIA
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+63 year old man with cirrhosis, encephalopathy, concern for new infection
+
+
+REASON FOR THIS EXAMINATION:
+
+
+r/o pneumonia
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+PROCEDURE:
+
+
+Chest portable AP.
+
+
+REASON FOR EXAM:
+
+
+Rule out pneumonia.
+
+
+Findings:
+
+
+The left hemodialysis catheter is unchanged with its tip in the
+ right atrium. NG tube passes into the stomach and out of view. Low lung
+ volumes with bilateral lower lobe atelectasis are stable.  Lungs are otherwise
+ clear, cardiomediastinal silhouette is unchanged.  A TIPS stent is
+ unchanged.
+
+
+IMPRESSION:
+
+
+Stable bilateral lower lobe atelectasis associated with low lung volumes.  No
+ new consolidation or pneumothorax.
+
+
+Chief Complaint:
+   Shortness of breath
+   HPI:
+    85yoF h/o moderate AS, afib; admitted in setting of progressive
+   hypoxemia and dyspnea.  She reports several days of progressive
+   dyspnea, then had an acute change yesterday afternoon with worsening of
+   her dyspnea.  Seen by EMS and found to be hypoxemic and placed on
+   BiPAP.  Brought to ED and admitted to ICU for ongoing management.
+   24 Hour Events:
+   Admitted overnight and has had steady improvement in her oxygenation.
+   Weaned from NRB now to 4L NC.
+   Allergies:
+   Lisinopril
+   throat swelling
+   Last dose of Antibiotics:
+   Levofloxacin
+   Ceftriaxone
+   Oseltamivir
+   Other medications:
+   Colace
+   Heparin
+   PPI
+   Simvastatin
+   Insulin sliding scale
+   Changes to medical and family
+
+
+history:
+
+
+No change
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2128-1-21**] 08:11 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.1
+C (97
+   Tcurrent: 36.1
+C (97
+   HR: 73 (70 - 85) bpm
+   BP: 112/52(68) {99/52(64) - 126/64(75)} mmHg
+   RR: 24 (20 - 26) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 61 Inch
+             Total In:
+             87 mL
+   PO:
+             TF:
+   IVF:
+   87 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    570 mL
+   Urine:
+   570 mL
+   NG:
+   Stool:
+
+
+0700-[**2070**] ADDENDUM TO NPN
+
+
+RESP: Transient tacypnea noted with RR as high as 80s-90s,
+M.D. aware.
+
+
+[**2163-8-5**] 3:51 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4571**]
+ Reason: evaluate for interval change
+ Admitting Diagnosis: PNEUMONIA
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+65 year old man with HCAP, hypoxia, chronic trach
+
+
+REASON FOR THIS EXAMINATION:
+
+
+evaluate for interval change
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+AP CHEST, 4:17 A.M. ON [**8-5**]
+
+
+HISTORY:
+
+
+Hypoxia.  Longstanding tracheostomy.
+
+
+IMPRESSION:
+
+
+AP chest compared to [**4-21**] through [**8-4**]:
+
+ Bibasilar atelectasis, severe on the right and complete collapse on the left
+ are unchanged accompanied by small bilateral pleural effusion.  Upper lungs
+ are grossly clear, heart size is normal.  Tracheostomy tube in standard
+ placement.  Left PIC line ends at the junction of brachiocephalic veins.
+
+
+Sinus rhythm. Atrial ectopy. Low amplitude T waves in I, I, III, aVF and V4-V6.
+INT: Non-specific T wave abnormalities. Compared to the previous tracing
+of [**2130-8-19**] T wave abnormalities persist. ST segment depressions are no longer
+present in the anterolateral leads and in lead II. T wave abnormalities have
+improved in leads III and aVF. Resolution of ischemia.
+TRACING #1
+
+
+Chief Complaint:
+   1. Hypotension
+   2. Opioid overdose
+   24 Hour Events:
+   - Bolused a total of 3L NS
+   - Blood cultures grew GNR
+   - Cipro added to [**Last Name (un) 614**]
+   History obtained from [**Hospital 15**] Medical records
+   Allergies:
+   History obtained from [**Hospital 15**] Medical recordsNo Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2181-6-22**] 10:30 PM
+   Meropenem - [**2181-6-23**] 02:00 AM
+   Ciprofloxacin - [**2181-6-23**] 03:00 AM
+   Infusions:
+   Other ICU medications:
+   Naloxone (Narcan) - [**2181-6-22**] 11:45 PM
+   Heparin Sodium (Prophylaxis) - [**2181-6-23**] 12:00 AM
+   Other medications:
+   OSH Meds:
+   acetaminophen
+   captopril 37.5 mg po tid
+   clonidine patch 0.2 mg
+   colchicine 0.6 mg [**Hospital1 **]
+   fentanyl patch 100 mcg
+   iron 325mg [**Hospital1 **]
+   advair 250/50 [**Hospital1 **]
+   nystatin swish and swallow
+   omeprazole
+   ondansetron prn
+   oxycodone 20 mg q 4 hrs
+   Eucerin
+   imipenem/cilastatin 500 mg IV
+   ipratroprium inh
+   LR 62.5 ml/hr
+   lido patch
+   lorazapam
+   metop 100 mg po tid
+   mirtazapine 30 mg qhs
+   nitroglycerine patch 0.2 mg/hr daily
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:  Complaints of low-back pain.
+   Flowsheet Data as of  [**2181-6-23**] 06:37 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.4
+C (99.4
+   Tcurrent: 36.5
+C (97.7
+   HR: 100 (100 - 130) bpm
+   BP: 89/48(57) {78/40(49) - 123/61(75)} mmHg
+   RR: 20 (20 - 29) insp/min
+   SpO2: 97%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 62 Inch
+             Total In:
+                                                                  3,310 mL
+                                                                    920 mL
+   PO:
+             TF:
+   IVF:
+                                                                  2,210 mL
+                                                                    920 mL
+   Blood products:
+   Total out:
+                                                                    195 mL
+                                                                    715 mL
+   Urine:
+                                                                    115 mL
+                                                                    345 mL
+   NG:
+   Stool:
+
+
+Ht: 65
+   Wt: 90kg
+   BMI: 65kg
+   PMHx: HTN
+   Meds: RISS, KCl (20mEq repletion), Famotidine, Neutraphos 2 packet,
+   Dilantin
+   Diet: regular
+   Potential for nutrition risk. Patient being monitored. Current
+   intervention if any, listed below:
+   41 YO female with supracellar cistern SAH s/p coiling ruptured ACOMM
+   aneurysm [**8-30**].  Diet advanced from clear liquids to regular this AM.
+   Patient tolerating small amount today.  Family in, encouraging
+   liquids.  Remains lethargic.
+   Recommendations:
+   1.       Encourage po
+s as tolerated
+   2.       Continue lytes/BS management
+   3.       Will follow up to check po intake, page if questions *[**Numeric Identifier 1867**]
+
+
+S/MICU Nursing Progress Note
+  Pt continues to open eyes but little tracking, she did have one moment of a few words, however not recognizable. Moving right arm, no movement on the left.
+  Cardiac: hr 60-80 afib, rare PVC's BP range 140-160/70-80's telemetry D/[**Name Initial (MD) **] by MD as she is awaiting a medical bed on floors and will not go to telemetry bed.
+  Respiratory: on 2 liters NC, coughing to back of her throat, suctioning with yankeur catheter.
+  IV' still with triple lumen in right IJ,
+  Social: family in tonight, and updated.
+  Plan: awaiting floor bed. ? if evaluated for PICC line as will need vanco. DNR/DNI.
+
+
+[**2129-9-24**] 12:02 PM
+ CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11714**]
+ Reason: eval. for interval change
+ Admitting Diagnosis: AORTIC STENOSIS\AORTIC VALVE REPLACEMENT; W/ ATRIACURE MAZE
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+76 year old woman with AS, b/l pleural effusions
+
+
+REASON FOR THIS EXAMINATION:
+
+
+eval. for interval change
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+HISTORY:
+
+
+76 year old, evaluate for interval change of the pleural effusion.
+
+ This study is compared to previous examination of [**2129-9-23**]. The
+ right IJ line remains in place and unchanged in position. Bilateral pleural
+ effusion and compression atelectases at the lower lobes is again noted. There
+ has been no significant changes in the amount of bilateral pleural effusions
+ since the previous study. Post operative changes are again noted as well as
+ cardiomegaly and atherosclerotic changes involving thoracic aorta.
+
+
+IMPRESSION:
+
+
+Bilateral pleural effusion unchanged. Cardiomegaly.
+
+
+Chief Complaint:
+   24 Hour Events:
+ EKG - At [**2125-5-1**] 10:30 AM
+ PAN CULTURE - At [**2125-5-1**] 12:01 PM
+ TRANS ESOPHAGEAL ECHO - At [**2125-5-1**] 01:21 PM
+ BLOOD CULTURED - At [**2125-5-2**] 12:00 AM
+   -Trop 0.02->0.25->0.52- given ASA
+   -given 250 cc fluid bolus x2 for BPs 70/30s
+   -echo shows LVH, nl EF, inc LV filling pressures
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2125-5-1**] 11:00 AM
+   Piperacillin/Tazobactam (Zosyn) - [**2125-5-2**] 06:01 AM
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2125-5-1**] 10:30 AM
+   Other medications:
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2125-5-2**] 07:06 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.6
+   Tcurrent: 35.9
+C (96.7
+   HR: 61 (55 - 134) bpm
+   BP: 93/35(49) {69/33(42) - 148/86(103)} mmHg
+   RR: 22 (12 - 39) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 60 Inch
+             Total In:
+                                                                  1,240 mL
+                                                                    100 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,000 mL
+                                                                    100 mL
+   Blood products:
+   Total out:
+                                                                  1,282 mL
+                                                                    235 mL
+   Urine:
+                                                                  1,282 mL
+                                                                    235 mL
+   NG:
+   Stool:
+
+
+focus hemodynmics
+data: neuro: alert and oriented. moves all extremities on the bed and will attempt to assist when turning in the bed. very pleasant. ambien given for sleep and slept well. at 0500am awoke and appeared to be confused to place and time. easily reoriented.  pt stated it must of been the sleeping pill.
+
+resp: breath sounds clear in the upper lobes and diminished inthe lower lobes. o2sat 100%. coughing but not raising any sputum.
+
+cardiac: in normal sinus rthymn. loprssor given as ordered. heart rate down to the 50's and one time drop to the 30's but quickly up to the 50's. bp elevated to the 180's and hydralazine 10mg iv given with bp response of 140-150's.
+
+gI stooling x2. abd obese with audible bowel sounds. taking po's well. no nausea or vomitting.
+
+gu foley patent and draining yellow urine.
+
+action: labs as ordered. turned q4hrs. no pain med given tonite as pt did not express any pain. right hip dsg changed for small amt of serous drainage. dry sterile dsg applied. ambien po for sleep and slept well.
+
+respone:monitor closelyl
+
+
+Nursing progress note
+
+
+#3 O: Wgt up 35 gms. Remains on 140cc/k/d of SSC24. Abd soft
+with active bowel sounds & no loops. No spits, minimal
+aspirates. Voiding & stooling. Stool was guaiac neg. PG feed
+given over 1 hr. PO feed offered at 12M. Baby took 41cc out
+of total of 54. Remainder fed PG. A: Tolerating feeds &
+gaining wgt. P: Cont to assess. Offer PO feed if awake.
+#4 O: Temp stable swaddled & co-bedding with twin.
+Occasionally wakes for feeds. [** 25**] with cares. A:
+Appropriate. P: Cont to assess.
+#5 O: Mom phoned for update. Mo pleased that baby is doing
+well. A: Loving parent. P: Support.
+#8 O: No apnea, bradycardia, or desats so far this shift. A:
+Stable in room air. P: Cont to document spells.
+
+
+[**2178-5-2**] 9:27 PM
+ CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 87217**]
+ Reason: right hand weakness eval for CVA
+ ______________________________________________________________________________
+ [**Hospital 3**]
+
+
+MEDICAL CONDITION:
+
+
+72 year old man with
+
+
+REASON FOR THIS EXAMINATION:
+
+
+right hand weakness eval for CVA
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ WET READ: SGA SAT [**2178-5-2**] 10:07 PM
+  no hemorrhage or edema
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+Right hand weakness.
+
+ COMPARISONS:  None.
+
+
+TECHNIQUE:
+
+
+Axial non-contrast MDCT images were obtained through the head.
+
+ CT HEAD WITHOUT IV CONTRAST:  There is no evidence of intracranial hemorrhage,
+ hydrocephalus, shift of normally midline structures or edema.  The [**Doctor Last Name **]-white
+ matter differentiation appears intact throughout.  There are atherosclerotic
+ calcifications of the anterior and posterior circulations.  The visualized
+ paranasal sinuses and mastoid air cells are well pneumatized.
+
+
+IMPRESSION:
+
+
+No evidence of intracranial hemorrhage or edema.
+
+ Of note, MRI with diffusion-weighted imaging is most sensitive for evaluation
+ of acute ischemia.
+
+
+Atrial fibrillation with a decrease in the ventricular response as compared to
+the previous tracing of [**2145-11-26**]. Lead V6 was not obtained. Right bundle-branch
+block and ventricular ectopy persist. Otherwise, no change.
+TRACING #2
+
+
+Sinus tachycardia with premature atrial contractions and ventricular premature
+beats.  Intraventricular conduction defect.  Leftward axis.  Diffuse ST-T wave
+changes.  Compared to tracing #1 ventricular premature beats are seen more
+commonly on the current tracing.
+TRACING #2
+
+
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+
+s: orally intubated
+o: id: afeb. started vanco for prelim gpc in sputum. remains on unasyn.
+cv: afib this am rate in the 90s. bp >100/ . this am, levo weaned off by 8:30am. pt underwent tee this am. rec'd additional sedation, 4mg versed and 50mcg fentanyl. several hours later bp trended down to 70s/ , rec'd 500cc ns bolus without response and levo was restarted around 2pm. shortly after pt had cdv, converted to sr after 200j x1. now in sr w hr 50-80. bp 85-105/50-70 via rad aline on levo at .08-.1 mcg/kg/min.
+heparin held this am as ptt>150. inr was 3.8. discussed with team and heparin was restarted after being held for several hours. w hypotension discussion of possible pa line insertion ledus to again hold heparin. resend inr, now 2.7. heparin remains off at present. team would like to resend inr this eve.
+resp: changed to ps 12/5. 40%. tv 400, rr 12-18. abg: 7.40/37/126/24/ 0. sxn'd for sm amt drk tan sputum. bs scatt coarse.
+plan for ct of chest his eve to eval parenchyma
+gi: npo. per resident cxr confirms placement of ogt in stomach. no stool.
+gu: foley to [**Last Name (un) **]. uop 20-40cc/hr. cr 2.0(2.4)
+skin: intact. has bitten tongue w bruising on front of tongue.
+ms: when light pt is restless, moving all extremities and thrashing about. unable to focus or follow commands. sedated w versed w effect, fentanyl given w procedures today.
+social: dtr here most of day. spoke w rn, sw and attending about current status and plan of care. dtr is [**Name2 (NI) **] emotional at times. husband brought her home. her numbers are in the chart and she would like to be called with any change in condition or results of scheduled procedures.
+
+a: resp failure of unclear etiology. s/p tee and cdv, now in sr but req pressors. alt ms of unclear etiology.
+p: follow hemodynamics, volume status, urine o/p. wean levophed as indicated, maintain sbp >90. follow rhythm. check inr this eve. monitor resp exam. safety precautions. med for comfort. support to pt and family.
+
+
+[**2159-12-18**] 2:22 PM
+ CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 5068**]
+ Reason: ? pulmonary mets
+ Admitting Diagnosis: HISTORY OF JAUNDICE; BILE DUCT STRICTURE\ PERCUTANEOUS TRANSHEPATIC CHOLANGIOGRAM
+ ______________________________________________________________________________
+ [**Hospital 4**]
+
+
+MEDICAL CONDITION:
+
+
+65 year old man with with malignant neoplasm of bile duct s/p ptc on [**2159-12-17**]
+
+
+REASON FOR THIS EXAMINATION:
+
+
+? pulmonary mets
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+Malignant neoplasm of the bile ducts, status post PTC on
+ [**2159-12-17**].
+
+
+TECHNIQUE:
+
+
+Multidetector CT images of the chest were obtained without
+ intravenous contrast.
+
+
+COMPARISON:
+
+
+No prior chest CTs are available for comparison.
+
+ CHEST CT WITHOUT IV CONTRAST:  There are several small mediastinal lymph
+ nodes, with the largest measuring 1.0 x 1.1 cm in the precarinal region.  Two
+ small pulmonary opacities are present, a tiny nodule in the left upper lobe
+ measuring 2 mm, and one in the right lower lobe which is irregular  in
+ shape and peribronchiolar, 5 mm long. Bilateral lower lobe atelectasis is
+ present.
+
+ The patient is status post biliary drainage catheter placement.  A 1.4 x 3.1
+ cm subcapsular collection of contrast material is present anterior to segment
+ IV, likely sequelae of PTBD procedure.  No other extracapsular fluid
+ collections are seen and there is no evidence of hemorrhage.  The osseous
+ structures reveal no suspicious lytic or sclerotic lesions.
+
+
+IMPRESSION:
+
+
+1.  Two small pulmonary lesions, the larger, in the right lower lobe most
+ likely due to local inflammation. Attention to these nodules on followup exams
+ is recommended.
+
+ 2.  Borderline enlarged mediastinal lymph nodes, a nonspecific finding.
+
+
+nuero: alert and oriented x3 via [** 648**] interperter. pt follows commands.
+
+pain: pt c/o h/a, pt recieved tylenol awaiting effect.
+
+pulm: pt lungs exp. wheezing noted in upper lobes, dimished at bases. this morning 02 saturations in 80's(please see flow sheet), pt requesting to be put back on bipap mask. pt bipap masked placed back on pt, dr. [**Last Name (STitle) **], dr. [**Last Name (STitle) **] aware. pt put back on 2lnp this afternoon pt 02 saturation 92%-98% please see flow sheet. venous abg done at 1545, dr. [**Last Name (STitle) **] aware of results. pt coughing and raising whitish secretions.
+
+cards: pt in sr, no vea noted please see flow sheet
+
+gi: pt tolerating clear liquids.
+
+gu: u/o this afternoon down to 15cc/hr, dr. [**Last Name (STitle) **] called and aware, pt recieved 500 d51/2 ns bolus x1 await effect.
+
+f/e na 148, k 3.7 tx'd with 40meq kcl.
+
+activity: pt oob to chair with 2 assist tolerating fine.
+
+plan: continue to monitor, monitor u/o, monitor resp. status, placed on bipap when needed, monitor na levels.
+
+
+Sinus rhythm. Compared to tracing #1 precordial ST-T wave changes persist but
+are less prominent.
+TRACING #2
+
+
+CLinical Nutrition
+O:
+34 wk gestational age BB, SGA w/ IUGR, now on DOL 1.
+Birthwt:  1455 g (<10th %Ile)
+HC:  29 cm (~10th %Ile)
+LN:  41 cm (~10th to 25th %Ile)
+Labs due to be drawn today
+NUtrition:  80 cc/kg/day TF.  NPO, but plan to start feeds today @ 30 cc/kg/day BM/SSC 20.  PN started on DOL 0 via [** 1407**].  Remainder of fluids as PN; projected intake for next 24hrs from PN ~24 kcal/kg/day, ~1.5 g pro/kg/day; no lipids yet.  From EN:  ~20 kcal/kg/day, ~0.3 to 0.6 g pro/kg/day and ~1.1 g fat/kg/day. GIR from PN ~3.5 mg/kg/min.
+GI: Abdomen benign, good bowel sounds, no stool yet.  NGT placed and some air out.
+
+A/Goals:
+Tolerating PN with good BS control.  Plan to start feeds today and monitor closely for tolerance.  Labs due to be drawn at 24 hrs of life.  Initial goal for feeds is ~150 cc/kg/day BM/SSC 24, providing ~120 kcal/kg/day and ~3.2 to 3.6 g pro/kg/day.  Expect PN to advance as per protocol, but if feeds are well tolerated, then PN will primarily be supplemental to feeds and tapered as feeds advance towards initial goal.  Appropriate to add Fe and Vit E supps when feeds reach initial goal. Further increases in feeds as per growth and tolerance.  Growth goals after initial diuresis are ~15 to 20 g/kg/day for wt gain, ~0.5 to 1 cm/wk or HC gain, and ~1 cm/wk for LN gain.  WIll follow w/ team and participate in nutrition plans.
+
+
+Case Management Note
+Chart reviewed and EIP & VNA options placed in record.  Clinical updates will be provided to [**Company 711**] insurance and I will assist w/any d'c planning needs along with team & famiy
+
+
+[**2155-1-28**] 1:23 PM
+ ART DUP EXT LO UNI;F/U                                          Clip # [**Clip Number (Radiology) 81313**]
+ Reason: fem-[**Doctor Last Name 196**], graft surveillance
+ ______________________________________________________________________________
+ [**Hospital 3**]
+
+
+MEDICAL CONDITION:
+
+
+74 year old woman with
+
+
+REASON FOR THIS EXAMINATION:
+
+
+fem-[**Doctor Last Name 196**]
+  graft surveillance
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+ARTERIAL DUPLEX LOWER EXTREMITY:
+
+ REASON:  Patient s/p femoral-popliteal bypass graft.  Perform follow up
+ surveillance.
+
+
+FINDINGS:
+
+
+Duplex evaluation was performed of the right SFA to tibioperoneal
+ trunk bypass graft.  Peak systolic velocities in cm/sec. are as follows:  135,
+ 66, 58, 60 in the native proximal vessel, proximal anastomosis, distal
+ anastomosis and native distal vessel respectively.  Throughout the remainder
+ of the graft velocities range from 40 to 56.
+
+
+IMPRESSION:
+
+
+Widely patent right superficial femoral artery to tibioperoneal
+ trunk bypass graft without any evidence of stenosis.
+
+
+NPN 0700-1900
+
+#1 Alt. in Resp. Function
+O: Remains in NC 13-25cc 100%. RR 50's-80's with mild SC retractions. Breath sounds are clear and =. Trial of RA after sats consistantly 100 in 13cc. Lasted ~ 1 hr before sats again drifting to 80's with periodic breathing. Placed back in 13cc NC with sats presently 95-100.
+A: Minimal 02 need, but still with drifting sats in RA
+P: Continue close monitoring and wean to RA when able.
+
+#2 Alt. in Nutrition
+O: TF=150cc/kg=80cc BM24 Q 4 hrs. Abd. is round, soft with active BS. Occasional aspirates, mod. spit x 1. Voiding and stooling. PO fed X 2 taking 40-45cc. Gavage fed remainder.
+A: Still requires gavage
+P: Continue with present feeding plan and encourage POs as able. Follow daily wts.
+
+#4 Alt. in Development
+O: Maintaining temps in open crib, swaddled, positioned supine with boundraies in place. Not waking for feeds, but alert with cares. Not acting very hungry. PO fed slowly and required gavage to achieve full volume. No spells but periodic breathing evident with some drifting sats.
+A: Immature feeding and breathing skills
+P: Continue to support developmental needs.
+
+#5 Alt. in Parenting
+O: No contact form [**Name2 (NI) **] today.
+A: Unable to assess
+P: Keep informed and support.
+
+#7 Alt. in Skin Integrity
+O: Perianal area still excoriated from monilial infection. Nystatin ointment reordered and applied alternating with "old" [**Known lastname **] w/zinc oxide
+A: Monilial rash with excoriation
+P: Continue alternating nystatin and [**Known lastname **]. [**Month (only) 24**] need to be left open to air if w/o improvement in 24-48 hrs.
+
+
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   Overnight, continued to recevie fluids and remains off vasopressors.
+   Continued on LR at 200 cc...
+   24 Hour Events:
+ EKG - At [**2111-12-29**] 03:00 AM
+ FEVER - 102.4
+F - [**2111-12-28**] 08:00 AM
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**2111-12-28**] 08:00 AM
+   Ciprofloxacin - [**2111-12-28**] 09:00 AM
+   Vancomycin - [**2111-12-28**] 08:17 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2111-12-29**] 09:50 AM
+   Infusions:
+   Midazolam (Versed) - 2 mg/hour
+   Fentanyl - 50 mcg/hour
+   Other ICU medications:
+   Famotidine (Pepcid) - [**2111-12-28**] 05:34 PM
+   Pantoprazole (Protonix) - [**2111-12-28**] 08:17 PM
+   Fentanyl - [**2111-12-29**] 03:56 AM
+   Midazolam (Versed) - [**2111-12-29**] 03:56 AM
+   Heparin Sodium (Prophylaxis) - [**2111-12-29**] 08:00 AM
+   Other medications:
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2111-12-29**] 11:01 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 35.4
+C (95.8
+   HR: 59 (48 - 105) bpm
+   BP: 97/53(70) {89/49(65) - 142/83(106)} mmHg
+   RR: 13 (0 - 20) insp/min
+   SpO2: 97%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 61 Inch
+   CVP: 12 (10 - 15)mmHg
+   Total In:
+                                                                  8,134 mL
+                                                                  1,701 mL
+   PO:
+   TF:
+   IVF:
+                                                                  7,409 mL
+                                                                  1,701 mL
+   Blood products:
+                                                                    725 mL
+   Total out:
+                                                                  2,659 mL
+                                                                    906 mL
+   Urine:
+                                                                  1,599 mL
+                                                                    341 mL
+   NG:
+                                                                    140 mL
+                                                                    280 mL
+   Stool:
+
+
+Neonatology Attending Progress Note
+Now day of life 1, CA [**79**] 1/7 weeks.
+Cardiorespiratory status stable in RA.
+RR 30-40s HR 130-140s  BP 60/44 49
+
+Wt. 1665gm on 80ml/kg/d via UVC with PN and IV fluids
+DS - 77-95
+NPO
+UO 2.8ml/kg/hr passing meconium
+
+Social - urine and mec sent for tox screen.
+
+ID - on amp and gent, culture
+
+Assessment/plan:
+Baby continues to do very well.
+Will initiate trophic feedings slowly - 20ml/kg/d for 2 days.
+Nutritional support with PN.
+Will schedule family meeting for later this week.
+HUS planned for this week.
+Social Work will continue to follow.
+
+
+Chief Complaint:
+   24 Hour Events:
+ DIALYSIS CATHETER - STOP [**2167-2-21**] 03:15 PM
+ BLOOD CULTURED - At [**2167-2-21**] 04:17 PM
+ PICC LINE - STOP [**2167-2-21**] 04:23 PM
+   PICC placed by IV RN. Awaiting CXR confirmation of tip placement.
+   - blood grew GPCs, started on vancomycin
+   - neuro wants MRI and EMG
+   Allergies:
+   Oxycodone
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Cefazolin - [**2167-2-19**] 04:00 PM
+   Vancomycin - [**2167-2-21**] 11:30 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2167-2-22**] 06:05 AM
+   Other medications:
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2167-2-22**] 07:20 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.3
+C (101
+   Tcurrent: 38.1
+C (100.6
+   HR: 111 (111 - 119) bpm
+   BP: 130/69(92) {102/57(73) - 159/74(103)} mmHg
+   RR: 24 (21 - 31) insp/min
+   SpO2: 96%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 76.5 kg (admission): 76.1 kg
+   Height: 59 Inch
+                  Total In:
+                                                                  1,417 mL
+                                                                    290 mL
+   PO:
+                  TF:
+                                                                    963 mL
+                                                                    290 mL
+   IVF:
+                                                                    305 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+
+
+Cardiology Fellow Admit Addendum
+   Please see CCU resident admit  note for complete details of HPI, PMH,
+   Medications, SH/FH.
+   In brief, this is a 73yoM with rheumatic heart disease causing AS/AR,
+   MS/MR, atrial fibrillation, chronic lung disease, admitted to [**Hospital1 1276**] with
+   dyspnea.
+   On admission to [**Hospital1 5**] was briefly in the MICU, receiving steroids for
+   COPD exacerbation, diuresed.  TTE results as noted in H.O. note.  Taken
+   to cath lab today, where R/LHC showed elevated biventricular pressures
+   and low CO/CI.
+   Pt was transferred to CCU for close monitoring, with plan for TEE
+   tomorrow to evaluate suitability of mitral valve for valvuloplasty vs
+   surgery.
+   Exam notable for stable HR in afib in the 60s, BP 100s/55s.  Breathing
+   reasonably comfortable on NC.  Does not seem grossly volume overloaded
+   on exam, although invasive numbers suggest otherwise.
+   Impression
+   73m with complex mixed valvulopathy, awaiting TEE for further
+   characterization of his syndrome and suitability for corrective
+   procedures.
+   TEE tomorrow.
+   Needs more diuresis tonight; probably will require Lasix drip.
+   Heparin gtt.
+   Further plans as detailed by admitting resident note.
+   Case discussed with Dr. [**Last Name (STitle) **].
+   [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 4157**], M.D.
+   x90493
+
+
+Neonatology
+Doing well. RA. No spells. Comfortable appearing.
+
+ABdomen benign. Tolearting feeds well. Taking good intake.
+
+Received HBV.
+Passed car seat test.
+PMD fu arranged for Monday of next week.
+Dischareg summary dictated. PMD contacetd.
+Plan for discharge later today.
+
+DC prep time 35 minutes.
+
+
+RESP CARE: Pt remains [** **]/on vent with settings per carevue.No ABGs this shift. Lungs- bilat rhonchi/Sxd thick white sputum from ETT/ mod amt bile colred fluid from oropharynx. RSBI 109. Plan is for ? trach/peg..
+
+
+This is a 51M with HTN, OSA, morbid obesity now with acute onset of
+   hypoxic hypercarbic respiratory failure and fever with leukocytosis and
+   bandemia.
+   Sepsis without organ dysfunction
+   Assessment:
+   TMAX 101.5.  Pt remains on neosynephrine drip.  BP 90-136/43-78.  HR,
+   SR 80
+s-90
+s. no ectopy noted. One bottle BC reporting gram positive
+   cocci in long chains.  CVP 11-14.  No fluid boluses this shift.
+   Action:
+   Tylenol and BCx1 for tempature spike.
+   Response:
+   Pt remained febrile with Tylenol.   Slowly able to wean neosynephrine
+   down throughout the course of the day.
+   Plan:
+   PT started on clindamycin.  CT of abdomen with oral contrast and lower
+   extremities CT to r/o necrotizing fascitis
+   Pulmonary Embolism (PE), Acute
+   Assessment:
+   Pt remains on heparin drip currently @ 2200u/hr.  No active bleeding
+   noted.  LENIs negative for DVT. +PP
+   Action:
+   Weaned heparin per s/s guidelines.
+   Response:
+   [**Name (NI) 9037**] PTT
+   Plan:
+   Next PTT check @21:00
+   Impaired Skin Integrity
+   Assessment:
+   Pt has small abrasion on left lower extremity.  Rt big toe with old
+   ingrown toenail site which was removed and  he was treated with
+   antibxs.  Groin area noted to be red rashy and yeasty.  Per wife
+   report he sometimes has that rash.
+   Action:
+   Nystatin powder ordered
+   Response:
+   No change
+   Plan:
+   Continue to monitor. Pt on bari maxx ii bed.
+   Respiratory failure, acute (not ARDS/[**Doctor Last Name 11**])
+   Assessment:
+   Pt remains intubated with current settings ACx26/500/60/15.   LS
+   diminished at bases.   Pt lightly sedated on fentanyl and versed.  Able
+   to follow commands consistently.
+   Action:
+   Pt given vanco/zosyn for possible PNA.  PT tolerating Fio2 wean.
+   Response:
+   Improving ABG
+   Plan:
+   Continue to monitor.
+
+
+Pt A Ox3 left side weakness and left facial droop/Left side neglect
+CV-VSS TF cont at 40cc/hr taking in po with HOB 45 tol well adv activity and diet
+please see flow sheet/pt stable for tx to floor
+Plan for rehab
+
+
+NPN
+
+
+#1  Infant remains on setting of 25/7 x20 FiO2 38-45%.
+Conts to be labile with sat drifts into the 70's-80's.  RR
+30-60's with mild SCR.  BS clear and equal.  Suctioned for
+small cloudy secretions.  Infant remains on lasix,
+aldactone, and [** 772**].  No bradys.
+
+#2  TF 130cc/k/d of BM30 with beneprotein=29cc Q4hrs on pump
+over 1 1/2hrs.  And soft, +BS, no loops.  No spits.  Max asp
+2cc.  Voiding, stooling loose stool guiac neg.  Wt
+1805(-5gms).
+
+#4  Infant swaddled in air mode isolette.  Weaned isolette
+temp x1 during the night.  Infant active and [** **] with
+cares..
+
+#5  No contact from [**Name2 (NI) **] so far overnight.
+
+
+Pertinent medications: fent gtt, versed gtt, NS @ 5ml/hr, Pantoprazole,
+   Heparin, SS lytes, Colace, Lasix x1
+   Labs:
+   Value
+   Date
+   Glucose
+   107 mg/dL
+   [**2162-10-12**] 12:17 PM
+   Glucose Finger Stick
+   138
+   [**2162-10-11**] 12:00 PM
+   BUN
+   129 mg/dL
+   [**2162-10-12**] 02:13 AM
+   Creatinine
+   3.6 mg/dL
+   [**2162-10-12**] 02:13 AM
+   Sodium
+   148 mEq/L
+   [**2162-10-12**] 02:13 AM
+   Potassium
+   5.4 mEq/L
+   [**2162-10-12**] 12:17 PM
+   Chloride
+   114 mEq/L
+   [**2162-10-12**] 02:13 AM
+   TCO2
+   21 mEq/L
+   [**2162-10-12**] 02:13 AM
+   PO2 (arterial)
+   108 mm Hg
+   [**2162-10-12**] 12:17 PM
+   PCO2 (arterial)
+   36 mm Hg
+   [**2162-10-12**] 12:17 PM
+   pH (arterial)
+   7.38 units
+   [**2162-10-12**] 12:17 PM
+   pH (venous)
+   7.34 units
+   [**2162-10-4**] 01:50 AM
+   pH (urine)
+   5.0 units
+   [**2162-10-3**] 10:23 PM
+   CO2 (Calc) arterial
+   22 mEq/L
+   [**2162-10-12**] 12:17 PM
+   Albumin
+   2.5 g/dL
+   [**2162-10-12**] 02:13 AM
+   Calcium non-ionized
+   8.5 mg/dL
+   [**2162-10-12**] 02:13 AM
+   Phosphorus
+   5.0 mg/dL
+   [**2162-10-12**] 02:13 AM
+   Ionized Calcium
+   1.20 mmol/L
+   [**2162-10-12**] 12:17 PM
+   Magnesium
+   2.9 mg/dL
+   [**2162-10-12**] 02:13 AM
+   ALT
+   255 IU/L
+   [**2162-10-12**] 02:13 AM
+   Alkaline Phosphate
+   524 IU/L
+   [**2162-10-12**] 02:13 AM
+   AST
+   236 IU/L
+   [**2162-10-12**] 02:13 AM
+   Amylase
+   15 IU/L
+   [**2162-10-10**] 01:14 AM
+   Total Bilirubin
+   7.1 mg/dL
+   [**2162-10-12**] 02:13 AM
+   Triglyceride
+   248 mg/dL
+   [**2162-10-10**] 05:46 AM
+   WBC
+   10.3 K/uL
+   [**2162-10-12**] 02:13 AM
+   Hgb
+   10.1 g/dL
+   [**2162-10-12**] 02:13 AM
+   Hematocrit
+   30.3 %
+   [**2162-10-12**] 02:13 AM
+   Current diet order / nutrition support: DIET: NPO
+   TF: OFF - Novasource Renal @ 42ml/hr
+   GI: open, hypoactive bs; golden mucoid stool
+   Assessment of Nutritional Status
+   Specifics:
+   Pt remains intubated/sedated.  TPN d/c
+d [**10-10**] [**1-9**] TF increasing to goal
+   w/ good tolerance.  TF off at this time as pt at test
+ gastrograf /
+   colon.  TF changed to renal formula to minimize fluid in put.  Agree w/
+   renal TF formula as K, Phos and Mg are elevated. Also noted increasing
+   BUN/creat.  Will need to monitor pt
+s tolerance closely as new TF
+   formula is not elemental (unlike Vivonex).  Noted fistula w/ thick
+   yellow drainage.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Agree w/ Novasource Renal @ 42ml/hr = 2016calories and 81g
+   protein
+   2.       Monitor abd exam; no residual checks w/ Jtube
+   3.       Monitor fistula output
+ if becomes high, may need to resume
+   TPN
+   4.       BS and lytes mgmt
+   5.       Will continue to monitor
+ page if ?s *[**Numeric Identifier 524**]
+   6.       Electronically signed by [**First Name8 (NamePattern2) 419**] [**Last Name (NamePattern1) 420**], RD, LDN
+   [**2162-10-12**] 15:22
+   7.
+   8.
+
+
+19 yo M s/p MVC, reportedly pt was unrestrained front seat passenger,
+   +EtOH
+   Injuries:
+   R temporal EDH, 15mm
+   R temporal SDH, 6mm
+   R temporal bone fx, comminuted, 5mm depressed
+   R post/lat orbital wall fx via extension of temporal bone fx
+   Pt taken to OR on [**6-3**] for right temporal and frontal craniectomy and
+   evacuation of hematoma
+   .
+   Fever (Hyperthermia, Pyrexia, not Fever of Unknown Origin)
+   Assessment:
+   Tmax 101.5
+   Action:
+   Blood cultured x1, urine culture sent, Tylenol given po
+   Response:
+   Temp now trending down
+   Plan:
+   Continue to monitor for temps and given Tylenol as needed, follow up
+   with cultures, ancef as ordered, please obtain sputum specimen if pt
+   able
+   Trauma, s/p MVC with head trauma s/p craniectomy
+   Assessment:
+   Pt alert and oriented x3, lethargic but awakens easily to voice. PERRL
+   Able to MAES equally and follows commands, aware of accident and
+   circumstances. Reports slight headache which he rated 0.5 on a 0-10
+   scale.
+   Action:
+   Neuro checks q1hour, Dilantin 100mg TID
+   Response:
+   Neuro exam unchanged with no s/s of seizure activity
+   Plan:
+   Continue to monitor neuro status and report changes to team
+
+
+Addendum to Shift Report
+Patient seen by operating Surgeon [**Doctor Last Name 10350**], discussed rehabilitation will take upwards of a week, patient will need radiation therapy to prevent regrowth of bone. Approved patient for full diet and transfer to the floor.
+
+Patient given 10mg Diazepam (CIWA 14). Patient needs to keep Right hip straight to prevent regrowth of bone and reduce stricture.
+
+
+Demographics
+   Day of intubation:
+   Day of mechanical ventilation: 7
+   Ideal body weight: 75.3 None
+   Ideal tidal volume: 301.2 / 451.8 / 602.4 mL/kg
+   Airway
+   Airway Placement Data
+   Known difficult intubation: Yes
+   Procedure location:
+   Reason:
+   Tube Type
+   ETT:
+                   Position: 23 cm at teeth
+                   Route: Oral
+                   Type: Standard
+                   Size: 7.5mm
+   Tracheostomy tube:
+                   Type:
+                   Manufacturer:
+                   Size:
+                   PMV:
+   Cuff  Management:
+                   Vol/Press:
+                                   Cuff pressure: 42  cmH2O
+                                   Cuff volume: 8  mL /
+                   Airway problems:
+                   Comments:
+   Lung sounds
+   RLL Lung Sounds: Rhonchi
+   RUL Lung Sounds: Rhonchi
+   LUL Lung Sounds: Rhonchi
+   LLL Lung Sounds: Rhonchi
+   Comments:
+   Secretions
+   Sputum color / consistency:  /
+   Sputum source/amount:  /
+   Comments:
+   Ventilation Assessment
+   Level of breathing assistance: Continuous invasive ventilation
+   Visual assessment of breathing pattern: Gasping efforts; Comments: Pt
+   reparalyzed for unusual breathing pattern.Worsening Pa02.
+   Assessment of breathing comfort: No response (sleeping / sedated)
+   Non-invasive ventilation assessment:
+   Invasive ventilation assessment:
+   Trigger work assessment:
+   Dysynchrony assessment:
+   Comments:
+   Plan
+   Next 24-48 hours: Reduce PEEP as tolerated; Comments: Reduce peep
+   slowly per ABG.
+   Reason for continuing current ventilatory support: Sedated / Paralyzed
+   Respiratory Care Shift Procedures
+   Transports:
+   Destination (R/T)
+   Time
+   Complications
+   Comments
+   Bedside Procedures:
+   Comments: Cont to monitor resp status.
+
+
+Sinus rhythm.  Relatively short P-R interval.  Compared to tracing #1 no
+change.
+TRACING #2
+
+
+NPN CONTINUED
+RESP - PT W/ INCREASED DESATS AFTER 3AM - AT END OF FEEDING, MULTIPLE DESATS TO 50S - PT REQUIRING STIM, AND INCREASED O2 AT TIMES.  HOB^
+
+
+[**2147-12-12**] 7:22 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 35967**]
+ Reason: TEMP SPIKE
+ ______________________________________________________________________________
+ [**Hospital 4**]
+
+
+MEDICAL CONDITION:
+
+
+73 year old man with ICH.
+  temp spike r/o PNA
+
+
+REASON FOR THIS EXAMINATION:
+
+
+r/o infiltrate
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+INDICATION:
+
+
+73 y/o man with intracranial hemorrhage and fever spike.
+
+
+COMPARISON:
+
+
+[**2147-12-10**].
+
+ PORTABLE SUPINE AP CHEST: The ETT, NG tube, and right subclavian line remain
+ in stable and satisfactory position. There are low lung volumes. The
+ cardiomediastinal silhouette is stable. There is no consolidation, CHF, or
+ effusion.
+
+
+IMPRESSION:
+
+
+No evidence of pneumonia.
+
+
+Chief Complaint: respiratory failure requiring BIPAP
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   68M with ESRD on HD, chronic bl pulm infiltrates associated with
+   hypoxemia (never biopsied), chronic aspiration, very sensitive to
+   opiates.  Got fentanyl for tunneled line (placed [**4-21**]) and developed
+   hypercarbic respiratory failure. Placed on BIPAP and stabilized. Given
+   narcan x 2 which improved alertness and respiratory drive. Remains
+   sleepy.  Has required IVF for hypotension.  DNR/DNI.
+   24 Hour Events:
+   ABG 7.30|58|71 yesterday evening
+   Pulled off BIPAP overnight.
+   Allergies:
+   Dicloxacillin
+   Rash;
+   Mercaptopurine
+   Neutropenia; Th
+   Last dose of Antibiotics:
+   Meropenem - [**2175-4-21**] 05:25 PM (day 13/14)
+   Micafungin - [**2175-4-21**] 08:14 PM (months)
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**2175-4-21**] 10:25 PM
+   Other medications:
+   mertazipine
+   synthroid
+   albuterol
+   Heparin sc
+   Protonix -> d/c
+   Testosterone patch
+   albumin x1 pre-HD
+   synthroid
+   Changes to medical and family
+
+
+history:
+
+
+Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2175-4-22**] 07:33 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.8
+C (98.2
+   Tcurrent: 36.8
+C (98.2
+   HR: 101 (83 - 101) bpm
+   BP: 123/57(72) {98/38(53) - 125/66(100)} mmHg
+   RR: 24 (18 - 30) insp/min
+   SpO2: 100% on 4L NC
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 72 Inch
+             Total In:
+                                                                  2,450 mL
+                                                                    705 mL
+   PO:
+             TF:
+   IVF:
+                                                                    440 mL
+                                                                     76 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+
+
+[**Last Name (LF) **],[**First Name3 (LF) **] A.                     ORTHO TSICU                [**2100-11-16**]  2:22 PM
+ CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 7**] # [**Clip Number (Radiology) 92760**]
+ Reason: s/p left subclavian line placement and reevaluate for worsen
+ Admitting Diagnosis: T7 FX
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+28 year old man with new line placement and chest tubes bilaterally. please do
+  XRAY at 1430. Thank you
+
+
+REASON FOR THIS EXAMINATION:
+
+
+s/p left subclavian line placement and reevaluate for worsening pneumothoraces
+  bilaterally
+ ______________________________________________________________________________
+                                  PFI REPORT
+ PFI:  Intubated, unchanged position, left subclavian line in good position.
+ Chest tubes remain, no new pneumothorax has developed.
+
+
+PRE MEDICATED C TYLENOL AND BENEDRYL. WHEN BLOOD READY RUN FIRST 2 UNITS OVER 2 HRS EA THEN DRAW BLOOD.
+
+
+[**2171-5-5**] 11:34 PM
+ CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 68978**]
+ Reason: eval line
+ ______________________________________________________________________________
+ [**Hospital 2**]
+
+
+MEDICAL CONDITION:
+
+
+[**Age over 90 **] year old woman with s/p line
+
+
+REASON FOR THIS EXAMINATION:
+
+
+eval line
+ ______________________________________________________________________________
+
+
+FINAL REPORT
+
+
+HISTORY:
+
+
+[**Age over 90 **]-year-old female status post line placement.
+
+
+COMPARISON:
+
+
+Portable chest radiograph performed earlier on the same evening
+ [**2171-5-5**] at 10:10 p.m.
+
+ PORTABLE UPRIGHT CHEST RADIOGRAPH:  Since the study of 1.5 hours prior, there
+ has been interval placement of a right internal jugular central venous
+ catheter, the tip of which is likely located at the superior cavoatrial
+ junction.  No new pneumothorax, mediastinal widening is seen.  Cardiac
+ enlargement with right pleural effusion and atelectasis and possible tiny left
+ pleural effusion is unchanged.  Again right lower lung consolidation cannot be
+ excluded.
+
+
+IMPRESSION:
+
+
+Right internal jugular central venous catheter tip terminates in
+ the region of the superior cavoatrial junction.
+
+
